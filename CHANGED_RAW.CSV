@@ -1,0 +1,743 @@
+Price,Address,Property Type,Beds,Baths,Car,Inspection Time,Area,Agent,RE_URL,Status
+"$530,000-$560,000","1 Verdant Drive, Donnybrook",,3,2,2,,,Daniel Di Battista,https://www.realestate.com.au/property-house-vic-donnybrook-147045764,Unchanged
+"$590,000 - $649,000","20 Tivoli Way, Mickleham",,4,2,2,Inspection Sat 25 Jan 2:30 pm,262m²,Tim Romeril,https://www.realestate.com.au/property-house-vic-mickleham-146925816,Unchanged
+,"92 Farm Crescent, Donnybrook",,4,3,2,Inspection Sat 25 Jan 11:00 am,,Waseem Gethya,https://www.realestate.com.au/property-house-vic-donnybrook-146925764,Unchanged
+"$640,000 - $680,000","5 Beaconsfield Dr, Mickleham",,4,2,2,,,Jay Singh,https://www.realestate.com.au/property-house-vic-mickleham-144749248,Unchanged
+,"32 Loudon Circuit, Craigieburn",,3,2,2,,312m²,Robin Dhalla,https://www.realestate.com.au/property-house-vic-craigieburn-147045268,Unchanged
+,"31 Thompson Crescent, Roxburgh Park",,5,2,2,Inspection tomorrow 5:30 pm,540m²,Melissa Abela,https://www.realestate.com.au/property-house-vic-roxburgh+park-146925540,Deleted
+"$600,000 - $650,000","16 Punchbowl Road, Kalkallo",,4,2,2,Inspection Sat 25 Jan 10:00 am,,Jagjeet Tiwana,https://www.realestate.com.au/property-house-vic-kalkallo-146573484,Unchanged
+"$640,000 - $670,000","11 Decumbens Way, Donnybrook",,4,2,2,Inspection Sat 25 Jan 1:00 pm,338m²,Jay Virk,https://www.realestate.com.au/property-house-vic-donnybrook-147044196,Unchanged
+,"6 Glideriter Road, Donnybrook",,4,2,2,Inspection Sat 25 Jan 2:00 pm,319m²,Mandeep Gagain,https://www.realestate.com.au/property-house-vic-donnybrook-144745940,Unchanged
+"$630,000 - $660,000","9 Onoway Approach, Mickleham",,4,2,2,,375m²,Jessica Kaur,https://www.realestate.com.au/property-house-vic-mickleham-145600428,Unchanged
+"$650,000 - $690,000","20 Ardsley Circuit, Craigieburn",,4,2,2,Inspection Sat 25 Jan 9:30 am,571m²,Domenic Campisi,https://www.realestate.com.au/property-house-vic-craigieburn-147042240,Deleted
+"ESR: $570,000 - $620,000","875 Edgars Road, Epping",,4,2,2,Inspection Sat 25 Jan 1:00 pm,322m²,Jay Moxon,https://www.realestate.com.au/property-house-vic-epping-147041972,Unchanged
+,"7 Zeal Way, Craigieburn",,4,2,2,Inspection Sat 25 Jan 2:30 pm,,Samira Haidary,https://www.realestate.com.au/property-house-vic-craigieburn-146119340,Unchanged
+"$640,000 - $680,000","15 Cobungra Grove, Wollert",,5,3,2,Inspection Sat 25 Jan 1:30 pm,,Walter Orlandi,https://www.realestate.com.au/property-house-vic-wollert-145126088,Unchanged
+"Auction Onsite 2nd Feb 1:30 PM $450,000-$490,000","43 Curbridge Drive, Donnybrook",,3,2,2,Inspection tomorrow 6:00 pm,,Vineet Wadehra,https://www.realestate.com.au/property-house-vic-donnybrook-146921992,Deleted
+"$640,000 - $665,000","14 Tungsten Drive, Kalkallo",,4,2,2,Inspection tomorrow 7:00 pm,,Love Sharma,https://www.realestate.com.au/property-house-vic-kalkallo-146921912,Unchanged
+"$590,000 - 640,000","11 Cerulean Street, Wollert",,4,3,2,Inspection Sat 25 Jan 2:00 pm,,Samaira Ahuja,https://www.realestate.com.au/property-house-vic-wollert-146921908,Deleted
+,"20 Mealie Avenue, Mickleham",,4,2,2,,,Ali Alsalemy,https://www.realestate.com.au/property-house-vic-mickleham-146766056,Unchanged
+"ESR: $620,000 - $680,000","63 Fortress Road, Doreen",,3,2,1,Inspection Sat 25 Jan 10:00 am,,Luke El Moussalli,https://www.realestate.com.au/property-house-vic-doreen-147038480,Unchanged
+,"6 Galileo Place, Greenvale",,4,3,2,Inspection Tue 28 Jan 6:00 pm,,Noora Duqman,https://www.realestate.com.au/property-house-vic-greenvale-146116176,Unchanged
+,"5 Chilworth Street, Donnybrook",,3,2,1,,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-donnybrook-144492440,Unchanged
+,"15 Lowline Way, Wollert",,4,3,2,Inspection tomorrow 5:00 pm,,Manish Sharma,https://www.realestate.com.au/property-house-vic-wollert-146907576,Deleted
+,"2 Azure Road, Wollert",,4,2,2,Inspection Sat 25 Jan 2:30 pm,,Manish Sharma,https://www.realestate.com.au/property-house-vic-wollert-146973256,Unchanged
+,"8 Azure Road, Wollert",,3,2,1,Inspection Sat 25 Jan 2:30 pm,,Manish Sharma,https://www.realestate.com.au/property-house-vic-wollert-146976656,Unchanged
+,"2 Edgedell Avenue, Kalkallo",,4,2,2,Inspection Sat 25 Jan 11:45 am,501m²,Prashant Battu,https://www.realestate.com.au/property-house-vic-kalkallo-146969304,Deleted
+,"32 Valetta Street, Mickleham",,4,2,2,Inspection Sat 25 Jan 12:30 pm,,Prashant Battu,https://www.realestate.com.au/property-house-vic-mickleham-146968856,Deleted
+,"30 Valetta Street, Mickleham",,4,2,2,Inspection Sat 25 Jan 12:30 pm,,Prashant Battu,https://www.realestate.com.au/property-house-vic-mickleham-146968524,Deleted
+,"11 Hackney Way, Kalkallo",,4,2,2,Inspection Sat 25 Jan 12:00 pm,425m²,Arvin Nagra,https://www.realestate.com.au/property-house-vic-kalkallo-145972396,Unchanged
+"$590,000 - $630,000","77 Bridgehaven Drive, Craigieburn",,4,2,2,Inspection Sat 25 Jan 11:00 am,,Ramazan Yavuz,https://www.realestate.com.au/property-house-vic-craigieburn-147035156,Unchanged
+,"Address available on request, Donnybrook",,3,2,1,,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-donnybrook-141361616,Unchanged
+,"11 Nasturium Street, Kalkallo",,4,2,2,Inspection tomorrow 7:00 pm,,Arvin Nagra,https://www.realestate.com.au/property-house-vic-kalkallo-146703928,Unchanged
+"$545,000-$595,000","11 Melaleuca Drive, Meadow Heights",,3,2,2,Inspection Sat 25 Jan 1:45 pm,550m²,Erhan Kalistu,https://www.realestate.com.au/property-house-vic-meadow+heights-147034348,Unchanged
+"$470,000 to $500,000","20 Fashion Parade, Broadmeadows",,3,2,4,Inspection tomorrow 5:30 pm,610m²,Nick Fernandez,https://www.realestate.com.au/property-house-vic-broadmeadows-146895144,Deleted
+"$650,000 - $715,000","5 Risdon Chase, Wollert",,4,2,2,Inspection Sat 25 Jan 11:30 am,400m²,Hayden Assaad,https://www.realestate.com.au/property-house-vic-wollert-147034208,Deleted
+,"37 Times Street, Kalkallo",,4,2,2,Inspection tomorrow 5:15 pm,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-kalkallo-146562032,Unchanged
+,"30 Skye Walk, Wollert",,3,2,2,Inspection Sat 25 Jan 2:00 pm,,Rashna Luitel,https://www.realestate.com.au/property-house-vic-wollert-146561992,Unchanged
+"$630,000","5 Hallifax Walk, Epping",,3,2,3,,,Bic Nguyen,https://www.realestate.com.au/property-house-vic-epping-146256640,Deleted
+"$599,000 - $649,000","28 Eremaea Road, Craigieburn",,3,2,2,,,Gee Mahna,https://www.realestate.com.au/property-house-vic-craigieburn-144738568,Unchanged
+"$635,000 - $655,000","38 Ballina Crescent, Donnybrook",,4,2,2,Inspection tomorrow 5:00 pm,,Love Sharma,https://www.realestate.com.au/property-house-vic-donnybrook-146772360,Unchanged
+"$570,000 - $590,000","10 Anglesea Drive, Wollert",,3,2,1,Inspection Sat 25 Jan 1:00 pm,,Sherry Singh,https://www.realestate.com.au/property-house-vic-wollert-146702712,Deleted
+"$630,000 - $660,000","Address available on request, Mickleham",,4,2,1,,,Karam Virk,https://www.realestate.com.au/property-house-vic-mickleham-144485896,Unchanged
+"$500,000 - $550,000","217 Windrock Avenue, Craigieburn",,3,2,2,Inspection tomorrow 6:00 pm,,Inas Sora,https://www.realestate.com.au/property-house-vic-craigieburn-144485944,Unchanged
+"$600,000 - $640,000","5 Northall Road, Mickleham",,4,2,2,,392m²,Adrian Prestileo,https://www.realestate.com.au/property-house-vic-mickleham-146895148,Deleted
+,"13 Xenon Road, Kalkallo",,4,2,1,Inspection Sat 25 Jan 12:00 pm,,Mandeep Gagain,https://www.realestate.com.au/property-house-vic-kalkallo-144735316,Unchanged
+,"5A Rocklands Rise, Meadow Heights",,3,2,2,,,Michael Abbas,https://www.realestate.com.au/property-house-vic-meadow+heights-146106260,Unchanged
+,"7 Thyridia Street, Mickleham",,5,3,2,,,Ali Alsalemy,https://www.realestate.com.au/property-house-vic-mickleham-146407840,Unchanged
+"$600,000 - $650,000","2 Silkwood Lane, Craigieburn",,4,2,2,Inspection tomorrow 5:30 pm,,Kristie Davies,https://www.realestate.com.au/property-house-vic-craigieburn-147030408,Deleted
+,"29 Eastside Boulevard, Donnybrook",,4,2,2,Inspection tomorrow 6:00 pm,350m²,Arvin Nagra,https://www.realestate.com.au/property-house-vic-donnybrook-146699936,Unchanged
+"$650,000-$690,000","21 Bonang Drive, Doreen",,3,2,2,,375m²,Aaron Geary,https://www.realestate.com.au/property-house-vic-doreen-146915012,Deleted
+,"3 Countess Circuit, Wollert",,4,2,2,,313m²,Rishi Railowal,https://www.realestate.com.au/property-house-vic-wollert-146556708,Deleted
+"$600,000 - $660,000","21 Statesman Avenue, Roxburgh Park",,4,2,2,Inspection Sat 25 Jan 11:30 am,480m²,Tim Romeril,https://www.realestate.com.au/property-house-vic-roxburgh+park-147029560,Unchanged
+,"12 Molesworth Crescent, Donnybrook",,4,2,2,Inspection Sat 25 Jan 12:45 pm,371m²,Arvin Nagra,https://www.realestate.com.au/property-house-vic-donnybrook-145589060,Deleted
+,"14 Serenade Street, Donnybrook",,3,2,1,,,Mandeep Sekhon,https://www.realestate.com.au/property-house-vic-donnybrook-146555804,Unchanged
+"$580,000 - $630,000","33 Sunnybrae Drive, Mernda",,4,2,2,Inspection tomorrow 5:00 pm,389m²,Chloe Topouzis,https://www.realestate.com.au/property-house-vic-mernda-146914076,Deleted
+"$550,000 - $570,000","3 Mitford Crescent, Craigieburn",,3,2,2,,676m²,Nick Fernandez,https://www.realestate.com.au/property-house-vic-craigieburn-146895188,Deleted
+"$550,000 - $570,000","Address available on request, Donnybrook",,3,2,1,,,Sunil Gandham,https://www.realestate.com.au/property-house-vic-donnybrook-143611648,Unchanged
+"$620,000 - $680,000","103 Arnaud Loop, Wollert",,4,2,2,Inspection Sat 25 Jan 1:30 pm,375m²,Abraham Solomon,https://www.realestate.com.au/property-house-vic-wollert-146913332,Unchanged
+"$570,000 - $610,000","12  Bunting Crescent, Kalkallo",,4,2,2,Inspection tomorrow 6:10 pm,,Domenic Campisi,https://www.realestate.com.au/property-house-vic-kalkallo-146913204,Unchanged
+"ESR:$560,000 - $610,000","16 Etherington Drive, Mernda",,3,2,1,Inspection Sat 25 Jan 1:15 pm,,Phil Di Battista,https://www.realestate.com.au/property-house-vic-mernda-146954912,Unchanged
+"ESR: $490,000 - $530,000","17 Tooten Road, Wollert",,3,2,1,Inspection Sat 25 Jan 11:00 am,,Phil Di Battista,https://www.realestate.com.au/property-house-vic-wollert-147027000,Unchanged
+"$620,000-$650,000","19 Malmsbury Drive, Meadow Heights",,4,2,1,Inspection tomorrow 6:00 pm,537m²,Amin Halabi,https://www.realestate.com.au/property-house-vic-meadow+heights-146911940,Deleted
+"$500,000 - $550,000","10 Laurina Street, Kalkallo",,3,2,2,,213m²,Hayden Assaad,https://www.realestate.com.au/property-house-vic-kalkallo-146911848,Unchanged
+,"7 Mealie Avenue, Mickleham",,4,2,2,Inspection Sat 25 Jan 1:00 pm,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-mickleham-146550144,Unchanged
+,"44 Cottonwood Drive, Wollert",,4,2,1,,,Om Minhas,https://www.realestate.com.au/property-house-vic-wollert-145844976,Unchanged
+"$600,000 - $660,000","23 Laxdale Grove, Mickleham",,4,2,2,,,Mickey (Sween) Arya,https://www.realestate.com.au/property-house-vic-mickleham-146244376,Unchanged
+$600k - $660k,"7 Gervase Avenue, Glenroy",,3,2,2,,215m²,Claudio Cuomo,https://www.realestate.com.au/property-house-vic-glenroy-147024052,Unchanged
+,"Address available on request, Donnybrook",,4,2,2,,,Manu Kumar,https://www.realestate.com.au/property-house-vic-donnybrook-141613916,Unchanged
+,"18 Rosmead Street,, Craigieburn",,3,2,1,,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-craigieburn-146547028,Unchanged
+"$640,000 - $675,000","41 HUNTINGTOWER AVE, Mickleham",,4,2,2,,262m²,Hammy,https://www.realestate.com.au/property-house-vic-mickleham-145666256,Deleted
+"$590,000 - $620,000","4 Madura Promenade, Mickleham",,4,2,1,,,Adrian Prestileo,https://www.realestate.com.au/property-house-vic-mickleham-146895184,Deleted
+"$500,000 - $550,000","91 Lemonwood Drive, Greenvale",,3,2,1,Inspection tomorrow 5:30 pm,,Jamee Favorito,https://www.realestate.com.au/property-house-vic-greenvale-147021112,Deleted
+"$550,000 to $590,000","8 Oxygen Street., Kalkallo",,3,2,1,Inspection Sat 25 Jan 2:30 pm,,Param Singh,https://www.realestate.com.au/property-house-vic-kalkallo-146689088,Unchanged
+,"3 Bentons Way, Mickleham",,4,2,2,Inspection Sat 25 Jan 11:30 am,,Jayant Poonia,https://www.realestate.com.au/property-house-vic-mickleham-146689012,Unchanged
+,"4 Yasuda Way, Kalkallo",,4,2,1,,,Jayant Poonia,https://www.realestate.com.au/property-house-vic-kalkallo-146540516,Unchanged
+"$590,000 to $635,000","13 Dianella Avenue, Kalkallo",,4,2,2,,350m²,Prashant Battu,https://www.realestate.com.au/property-house-vic-kalkallo-146389864,Unchanged
+,"Address available on request, Donnybrook",,4,2,1,,,Harry Banga,https://www.realestate.com.au/property-house-vic-donnybrook-143346484,Unchanged
+,"69 Brossard Road, Mickleham",,3,2,1,,,Rashna Luitel,https://www.realestate.com.au/property-house-vic-mickleham-145453944,Unchanged
+,"7 Eulinga Street, Mickleham",,4,2,2,Inspection Sat 25 Jan 12:30 pm,262m²,Raghad Misho,https://www.realestate.com.au/property-house-vic-mickleham-147017188,Unchanged
+,"35 Winterfell road, Donnybrook",,4,2,2,,,Shubham Banger,https://www.realestate.com.au/property-house-vic-donnybrook-146536724,Unchanged
+AUCTION | $630K-$660K,"6 Linden Close, Meadow Heights",,3,2,4,Inspection tomorrow 5:00 pm,690m²,Alex Briggs,https://www.realestate.com.au/property-house-vic-meadow+heights-147016864,Deleted
+"$609,000","40 Rochford Drive, Donnybrook",,4,2,2,Inspection Sat 25 Jan 1:15 pm,315m²,Damien Crivelli,https://www.realestate.com.au/property-house-vic-donnybrook-147016552,Deleted
+"$539,000","6 Hawkesbury Drive, Donnybrook",,3,2,2,Inspection Sat 25 Jan 2:00 pm,,Damien Crivelli,https://www.realestate.com.au/property-house-vic-donnybrook-147016544,Unchanged
+"$550,000 - $600,000","7 Neon Street, Kalkallo",,3,2,1,,,Jack Esho,https://www.realestate.com.au/property-house-vic-kalkallo-145705040,Unchanged
+"$500,000-$550,000","2A Courtyard Way, Roxburgh Park",,3,2,1,Inspection Sat 25 Jan 10:30 am,175m²,Amin Halabi,https://www.realestate.com.au/property-house-vic-roxburgh+park-146239052,Deleted
+,"12 The Burchett, Wollert",,3,2,1,,,Jag Kang,https://www.realestate.com.au/property-house-vic-wollert-145836864,Unchanged
+$509K - $549K /36 Latchford Dr Mickleham,"Address available on request, Mickleham",,3,2,1,,,Pardeep Kumar,https://www.realestate.com.au/property-house-vic-mickleham-145573164,Unchanged
+"$580,000-$620,000","9 Rostron Way, Roxburgh Park",,3,2,1,Inspection Sat 25 Jan 10:00 am,,Amin Khoder,https://www.realestate.com.au/property-house-vic-roxburgh+park-147015372,Unchanged
+"ASKING PRICE $575,000","7 Lion Chase, Craigieburn",,3,2,1,Inspection tomorrow 6:00 pm,262m²,Ricky Singh,https://www.realestate.com.au/property-house-vic-craigieburn-146386332,Unchanged
+"$590,000 - $620,000","129 Huntington Drive, Craigieburn",,4,2,2,,,Trish Orrico,https://www.realestate.com.au/property-house-vic-craigieburn-146895168,Deleted
+,"Address available on request, Kalkallo",,4,2,2,,,Aayush Sharma,https://www.realestate.com.au/property-house-vic-kalkallo-143204444,Unchanged
+,"6 Aniseed Street, Mickleham",,4,2,2,,,Ali Al Saffar,https://www.realestate.com.au/property-house-vic-mickleham-146754368,Unchanged
+Auction | $490k - $530k,"17/195 Johnstone Street, Westmeadows",,3,2,1,Inspection Sat 25 Jan 10:00 am,175m²,Dom Zampaglione,https://www.realestate.com.au/property-house-vic-westmeadows-147013980,Unchanged
+"$590,000 - $620,000","12 Green Hill Place, Craigieburn",,3,2,2,Inspection Sat 25 Jan 11:00 am,,Trish Orrico,https://www.realestate.com.au/property-house-vic-craigieburn-146531804,Deleted
+"$560,000 - $590,000","16 Amfissa Street, Wollert",,3,2,1,Inspection Sat 25 Jan 11:30 am,,Kiranvir Buttar,https://www.realestate.com.au/property-house-vic-wollert-146384400,Unchanged
+,"8 Bracegirdle Drive, Mickleham",,4,2,2,Inspection tomorrow 6:00 pm,,Sahib Singh,https://www.realestate.com.au/property-house-vic-mickleham-146846852,Unchanged
+,"21 Bloodwood Street, Kalkallo",,4,3,2,Inspection tomorrow 6:00 pm,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-kalkallo-146944128,Unchanged
+,"5 Aniseed Street, Mickleham",,4,2,2,,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-mickleham-146837992,Unchanged
+,"37 Mealie Avenue, Mickleham",,4,2,2,Inspection tomorrow 5:00 pm,,Hitendra Jodawat,https://www.realestate.com.au/property-house-vic-mickleham-146738176,Unchanged
+,"6 Bonnyview Road, Craigieburn",,4,2,2,Inspection Sat 25 Jan 1:00 pm,,Admon Paules,https://www.realestate.com.au/property-house-vic-craigieburn-146748168,Unchanged
+,"15 Cream Road, Donnybrook",,4,2,2,Inspection tomorrow 7:00 pm,,Sahib Singh,https://www.realestate.com.au/property-house-vic-donnybrook-146748716,Unchanged
+,"28 Caspian Drive, Craigieburn",,4,2,2,Inspection tomorrow 6:00 pm,,Ryan Gaire,https://www.realestate.com.au/property-house-vic-craigieburn-146766120,Unchanged
+,"25 Columbus Road, Kalkallo",,3,2,1,Inspection Sat 25 Jan 2:00 pm,,Sahib Singh,https://www.realestate.com.au/property-house-vic-kalkallo-146841376,Unchanged
+"$640,000-$655,000","5 Ginger Crescent, Mickleham",,4,2,2,Inspection Sat 25 Jan 12:00 pm,350m²,James Farrugia,https://www.realestate.com.au/property-house-vic-mickleham-146530296,Unchanged
+,"Address available on request, Kalkallo",,4,2,2,,,Robin Dhalla,https://www.realestate.com.au/property-house-vic-kalkallo-145570344,Unchanged
+"ESR: $640,000 To $690,000","6 Edgedell Avenue, Kalkallo",,4,2,2,,350m²,Nitin Batra,https://www.realestate.com.au/property-house-vic-kalkallo-144213648,Unchanged
+,"7 Mensa Court, Roxburgh Park",,3,2,1,,416m²,Omer Khoder,https://www.realestate.com.au/property-house-vic-roxburgh+park-143201696,Unchanged
+,"Address available on request, Donnybrook",,3,2,2,,,Arvin Nagra,https://www.realestate.com.au/property-house-vic-donnybrook-145322164,Unchanged
+"Private Sale $640,000 - $670,000","9 Davis Circuit, Wollert",,4,2,2,,,Nitin Rana,https://www.realestate.com.au/property-house-vic-wollert-146382056,Unchanged
+"$630,000 - $680,000","10 Galvin Ct, Meadow Heights",,5,3,2,,771m²,Mohammed El Hawli,https://www.realestate.com.au/property-house-vic-meadow+heights-146879720,Deleted
+,"41 Kilarnie Boulevard, Wollert",,4,2,2,Inspection tomorrow 5:00 pm,,Bikram Sidhu,https://www.realestate.com.au/property-house-vic-wollert-146793660,Unchanged
+"$600,000 - $640,000","17 Cream Road, Donnybrook",,4,2,2,Inspection tomorrow 6:15 pm,,Love Sharma,https://www.realestate.com.au/property-house-vic-donnybrook-146676424,Deleted
+,"Address available on request, Mickleham",,3,2,2,,,Mickey (Sween) Arya,https://www.realestate.com.au/property-house-vic-mickleham-140638363,Unchanged
+,"5 Yumbarra Parade, Wollert",,3,2,1,,336m²,Pir Sidhu,https://www.realestate.com.au/property-house-vic-wollert-146673504,Unchanged
+"Private Sale-$580,000-$610,000","14 REMINIS DRIVE, Donnybrook",,3,2,1,Inspection Sat 25 Jan 1:15 pm,,Prabhjot Singh,https://www.realestate.com.au/property-house-vic-donnybrook-147012940,Unchanged
+"$570,000 - $595,000","202 Brossard Road, Mickleham",,3,2,2,Inspection Sun 2 Feb 12:00 pm,251m²,Ash Daga,https://www.realestate.com.au/property-house-vic-mickleham-146789472,Unchanged
+"$649,000","6 Messina Street, Mernda",,3,2,1,Inspection Sat 25 Jan 10:00 am,,Sugath Warnasuriya,https://www.realestate.com.au/property-house-vic-mernda-146788896,Unchanged
+,"14 Boglis Avenue, Wollert",,4,2,1,,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-wollert-145962336,Deleted
+"$530,000 - $570,000","Address available on request, Kalkallo",,3,2,2,,,Pir Sidhu,https://www.realestate.com.au/property-house-vic-kalkallo-143329292,Unchanged
+$650 K (Brand new Craigieburn side),"20 Wallowa Street, Mickleham",,4,2,1,,,Pardeep Kumar,https://www.realestate.com.au/property-house-vic-mickleham-144589408,Unchanged
+,"29 Goadby Drive, Mernda",,4,2,2,Inspection tomorrow 6:00 pm,384m²,Nick Pradhan,https://www.realestate.com.au/property-house-vic-mernda-146668180,Unchanged
+,"100 Schotters Road, Mernda",,4,3,2,,,Sash Buncic,https://www.realestate.com.au/property-house-vic-mernda-146786844,Unchanged
+"$600,000 - $660,000","4 Solar Way, Mickleham",,3,2,2,,,Khaled Khaled,https://www.realestate.com.au/property-house-vic-mickleham-146373364,Deleted
+,"27 Sunridge Drive, Mernda",,3,2,2,Inspection Sat 25 Jan 4:30 pm,,Om Minhas,https://www.realestate.com.au/property-house-vic-mernda-146522892,Unchanged
+,"Address available on request, Kalkallo",,3,2,2,,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-kalkallo-142592332,Unchanged
+,"1 Bracegirdle Drive, Mickleham",,4,2,2,,,Rajinder Joshan,https://www.realestate.com.au/property-house-vic-mickleham-146659424,Unchanged
+"$650,000-$700,000","41 Brock Street, Thomastown",,3,2,2,Inspection tomorrow 6:00 pm,688m²,Darren Lambert,https://www.realestate.com.au/property-house-vic-thomastown-146785496,Unchanged
+,"12 Bounty Road, Donnybrook",,4,2,2,Inspection Sat 25 Jan 10:30 am,,Shubham Banger,https://www.realestate.com.au/property-house-vic-donnybrook-146521760,Unchanged
+"$590,000 - $635,000","10/5 Korab Place, Roxburgh Park",,3,3,2,,232m²,Onel Hawil,https://www.realestate.com.au/property-house-vic-roxburgh+park-145958156,Unchanged
+,"5 Pittsburgh Rd, Kalkallo",,4,3,1,,,Aayush Sharma,https://www.realestate.com.au/property-house-vic-kalkallo-141941588,Unchanged
+"$590,000 - $630,000","19 Limpopa Square, Roxburgh Park",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-roxburgh+park-145685992,Unchanged
+"$650,000 - $690,000","25 Erasmus Avenue, Craigieburn",,3,2,2,Inspection Sat 25 Jan 1:45 pm,,Omer Koksal,https://www.realestate.com.au/property-house-vic-craigieburn-146098072,Unchanged
+"$650,000- $700,000","41 Eastside Boulevard, Donnybrook",,4,2,2,,350m²,Nitin Rana,https://www.realestate.com.au/property-house-vic-donnybrook-146519464,Unchanged
+,"18 Nasturium Street, Kalkallo",,4,2,2,Inspection Sat 25 Jan 11:15 am,312m²,Usman Maan,https://www.realestate.com.au/property-house-vic-kalkallo-146663500,Unchanged
+"$570,000 - $610,000","27 Bentham Street, Roxburgh Park",,4,2,2,,,Evan Yousif,https://www.realestate.com.au/property-house-vic-roxburgh+park-145816712,Unchanged
+,"44 Nasturium Street, Kalkallo",,4,2,1,Inspection Sat 25 Jan 10:00 am,,Maaz Awais,https://www.realestate.com.au/property-house-vic-kalkallo-146907492,Unchanged
+"$600,000 - $660,000","12 Troidini Entrance, Mickleham",,4,2,1,Inspection tomorrow 5:30 pm,,Manar Dindo,https://www.realestate.com.au/property-house-vic-mickleham-146782596,Unchanged
+,"12 Millennium Road, Craigieburn",,3,2,2,Inspection Sat 25 Jan 2:00 pm,,Jessica Kaur,https://www.realestate.com.au/property-house-vic-craigieburn-146660396,Unchanged
+"Private Sale-$630,000-$670,000","29 Ironwood Rd, Mickleham",,4,2,2,Inspection tomorrow 6:15 pm,221m²,Prabhjot Singh,https://www.realestate.com.au/property-house-vic-mickleham-146780168,Unchanged
+,"248 Toyon Road, Donnybrook",,4,2,2,Inspection tomorrow 6:15 pm,312m²,Arvin Nagra,https://www.realestate.com.au/property-house-vic-donnybrook-146779848,Unchanged
+,"Address available on request, Donnybrook",,4,2,2,,,Chetan Chauhan,https://www.realestate.com.au/property-house-vic-donnybrook-145553048,Unchanged
+,"Address available on request, Craigieburn",,4,2,1,,,Jessica Kaur,https://www.realestate.com.au/property-house-vic-craigieburn-141936944,Unchanged
+"$520,000 - $550,000","23 Boomerang Road, Donnybrook",,3,2,1,Inspection Sat 25 Jan 11:00 am,,Omar Morsi,https://www.realestate.com.au/property-house-vic-donnybrook-146513024,Unchanged
+Architectural Masterpiece with 5.4m Ceilings,"12 Aniseed Street, Mickleham",,4,2,2,,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-mickleham-146777612,Unchanged
+"$550,000 - $605,000","18 Clapham Avenue, Wollert",,3,2,2,,,Con Tsalkos,https://www.realestate.com.au/property-house-vic-wollert-146777472,Unchanged
+,"37 Yorkville Road, Kalkallo",,4,2,2,,,Ali Al Saffar,https://www.realestate.com.au/property-house-vic-kalkallo-146655856,Unchanged
+,"24 Ironcap Road, Mickleham",,4,3,2,,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-mickleham-146510404,Unchanged
+,"41 Bowenia Avenue, Craigieburn",,3,2,1,,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-craigieburn-146510388,Unchanged
+"$640,000 - $660,000","10 Edgedell Avenue, Kalkallo",,4,2,2,,374m²,Joe Sortino,https://www.realestate.com.au/property-house-vic-kalkallo-146654152,Unchanged
+"$630,000 - $690,000","10 Strickland Avenue, Mill Park",,3,2,2,Inspection tomorrow 6:30 pm,573m²,John Gioftsidis,https://www.realestate.com.au/property-house-vic-mill+park-147010852,Unchanged
+"$630,000 - $660,000","4 Jum Way, Donnybrook",,4,2,2,,312.51m²,Karam Virk,https://www.realestate.com.au/property-house-vic-donnybrook-146233988,Unchanged
+,"5 Tucholsky Drive, Kalkallo",,3,2,1,,,Arvin Nagra,https://www.realestate.com.au/property-house-vic-kalkallo-145675168,Unchanged
+,"38 Bank Street, Wollert",,3,2,1,Inspection Sat 25 Jan 12:00 pm,,Dave Singh,https://www.realestate.com.au/property-house-vic-wollert-147009852,Unchanged
+$630k - $660k,"44 Upthorpe Way, Mickleham",,4,2,2,Inspection Sat 25 Jan 11:45 am,407m²,Jatin Mehta,https://www.realestate.com.au/property-house-vic-mickleham-146905156,Deleted
+,"70 Quill Circuit, Kalkallo",,4,2,2,Inspection tomorrow 5:30 pm,,Aman Nagra,https://www.realestate.com.au/property-house-vic-kalkallo-146863428,Unchanged
+,"56 Eynesbury View, Wollert",,3,2,2,,375m²,Mike Assaad,https://www.realestate.com.au/property-house-vic-wollert-146862944,Deleted
+,"3 Suffern Street, Donnybrook",,4,2,2,Inspection tomorrow 6:00 pm,,Harry Banga,https://www.realestate.com.au/property-house-vic-donnybrook-146649800,Unchanged
+"$640,000 - $680,000","36 Samolus Street, Mickleham",,4,2,2,,,Mickey (Sween) Arya,https://www.realestate.com.au/property-house-vic-mickleham-146649164,Unchanged
+"$600,000 - $660,000","67 Molesworth Crescent, Donnybrook",,4,2,2,Inspection tomorrow 6:00 pm,,Sharukh Shaik,https://www.realestate.com.au/property-house-vic-donnybrook-146649380,Unchanged
+,"10 Tatlow Drive, Epping",,3,2,2,Inspection Sat 25 Jan 10:00 am,542m²,Mario Tucci,https://www.realestate.com.au/property-house-vic-epping-147006448,Unchanged
+,"12 Amfissa Street, Wollert",,4,2,2,,,Pir Sidhu,https://www.realestate.com.au/property-house-vic-wollert-146861748,Deleted
+"$640,000 - $660,000","19 Cream Road, Donnybrook",,4,2,2,Inspection tomorrow 6:15 pm,,Love Sharma,https://www.realestate.com.au/property-house-vic-donnybrook-146648352,Unchanged
+"$595,000 - $650,000","65 Bovine Crescent, Donnybrook",,4,2,2,,,Vanny Bains,https://www.realestate.com.au/property-house-vic-donnybrook-146647292,Deleted
+$590000 - $620000,"Address available on request, Kalkallo",,4,2,2,,,Robbie Sandhu,https://www.realestate.com.au/property-house-vic-kalkallo-142816984,Unchanged
+,"16/5 Linoak Avenue, Lalor",,3,2,2,Inspection Sat 25 Jan 2:00 pm,148m²,Tim Yu,https://www.realestate.com.au/property-house-vic-lalor-143583316,Unchanged
+"$529,000 - $569,000","45 Rosette Parade, Mickleham",,3,2,1,,,Pardeep Kumar,https://www.realestate.com.au/property-house-vic-mickleham-146768232,Deleted
+"$590,000 - $645,000","5 Grandstand Way, Wollert",,3,2,2,Inspection tomorrow 6:00 pm,,Garvit Mediratta,https://www.realestate.com.au/property-house-vic-wollert-147003684,Unchanged
+"$650,000 to $700,000","38 Ironwood Road, Mickleham",,4,2,2,Inspection tomorrow 5:15 pm,,Lana Trpkovski,https://www.realestate.com.au/property-house-vic-mickleham-146223616,Unchanged
+"AUCTION $630,000 - $693,000","56 Sandover Drive, Roxburgh Park",,4,2,4,Inspection Sat 25 Jan 10:30 am,490m²,Rose Mickoska,https://www.realestate.com.au/property-house-vic-roxburgh+park-147002392,Unchanged
+,"21 Avisha Way, Greenvale",,5,4,2,,434m²,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-greenvale-146075928,Unchanged
+,"76 Bovine Crescent, Donnybrook",,4,2,1,Inspection Sat 25 Jan 12:00 pm,,Waseem Gethya,https://www.realestate.com.au/property-house-vic-donnybrook-146075768,Unchanged
+"$480,000 - $510,000","7 Jaffa Street, Kalkallo",,3,2,2,Inspection Sat 25 Jan 11:30 am,275m²,Ameerul Zulfikar,https://www.realestate.com.au/property-house-vic-kalkallo-147000628,Unchanged
+"NOW TAKING OFFERS $615,000","6 Tynemouth Way, Donnybrook",,4,2,1,Inspection tomorrow 6:30 pm,263m²,Ali Faour,https://www.realestate.com.au/property-house-vic-donnybrook-146805904,Unchanged
+"$599,000-$658,900","12 Crossley Crescent, Coolaroo",,5,2,2,Inspection Sat 25 Jan 2:00 pm,613m²,Habib Kattoura,https://www.realestate.com.au/property-house-vic-coolaroo-146764576,Unchanged
+"$500,000-$550,000","26 Thomas Street, Airport West",,4,4,2,,186m²,John Matthews,https://www.realestate.com.au/property-house-vic-airport+west-145926988,Unchanged
+"($599,000) 11 Bracegirdle Dr Mickleham","Address available on request, Mickleham",,3,2,2,,,Pardeep Kumar,https://www.realestate.com.au/property-house-vic-mickleham-145433296,Unchanged
+"ESR $600,000 - $660,000","27 Laxdale Grove, Mickleham",,4,2,2,Inspection Sat 25 Jan 12:00 pm,313m²,Aman Verma,https://www.realestate.com.au/property-house-vic-mickleham-146216492,Unchanged
+,"1 to 12/61 Black Braes Boulevard, Mernda",,3,2,2,,,Param Singh,https://www.realestate.com.au/property-house-vic-mernda-144450344,Unchanged
+"$600,000 - $650,000","14 Clowes Street, Mickleham",,3,2,2,,,Paul Rametta,https://www.realestate.com.au/property-house-vic-mickleham-145432908,Unchanged
+,"4 Selenium Street, Kalkallo",,4,2,2,Inspection Sat 25 Jan 1:00 pm,,Waseem Gethya,https://www.realestate.com.au/property-house-vic-kalkallo-146365436,Unchanged
+"$530,000 - $565,000","7 Solitude Lane, Doreen",,3,2,2,Inspection Sat 25 Jan 2:15 pm,384m²,Vanny Bains,https://www.realestate.com.au/property-house-vic-doreen-146215928,Unchanged
+"$630,000 to $660,000","18 Stonecutter Crescent, Wollert",,4,2,2,Inspection Sat 25 Jan 12:30 pm,,Mandeep Sekhon,https://www.realestate.com.au/property-house-vic-wollert-146365256,Unchanged
+,"22 Valetta Street, Mickleham",,3,2,2,,,Aayush Sharma,https://www.realestate.com.au/property-house-vic-mickleham-144581672,Unchanged
+,"24 Zaatar Street, Mickleham",,4,2,2,Inspection Sat 25 Jan 1:30 pm,,Mohit Jain,https://www.realestate.com.au/property-house-vic-mickleham-146996328,Unchanged
+,"19 Tindari Way, Wollert",,3,2,2,Inspection tomorrow 6:00 pm,,Gav Malhotra,https://www.realestate.com.au/property-house-vic-wollert-146995748,Unchanged
+"$590,000 - $620,000","22 Tivoli Way, Mickleham",,3,2,2,,,Wahid Baqi,https://www.realestate.com.au/property-house-vic-mickleham-145305196,Unchanged
+,"Address available on request, Mickleham",,4,2,2,,,Abdul Sleman,https://www.realestate.com.au/property-house-vic-mickleham-142807272,Unchanged
+"$630,000- $660,000","16 Mawson Street, Mickleham",,4,2,2,Inspection tomorrow 5:30 pm,,Ehab Chmaisse,https://www.realestate.com.au/property-house-vic-mickleham-145918500,Unchanged
+"ESR  $550,000 - $580,000","130 Juscelina Drive, Craigieburn",,3,2,2,,231m²,Bal Singh,https://www.realestate.com.au/property-house-vic-craigieburn-146213500,Deleted
+,"Address available on request, Donnybrook",,4,2,1,,,Sam Singh,https://www.realestate.com.au/property-house-vic-donnybrook-145055860,Unchanged
+,"5a Warnock Street, Broadmeadows",,3,2,2,,,Richard Ali,https://www.realestate.com.au/property-house-vic-broadmeadows-145922036,Unchanged
+"$460,000 - $490,000","10 Millicent Drive, Craigieburn",,3,2,1,Inspection tomorrow 5:00 pm,,Romi Sleiman,https://www.realestate.com.au/property-house-vic-craigieburn-146992748,Unchanged
+"$530,000 - $550,000","41 Rosette Parade, Mickleham",,3,2,2,,,Adrian Prestileo,https://www.realestate.com.au/property-house-vic-mickleham-146895196,Deleted
+"($611,000 )   9 Dalgety St Mickleham !!","Address available on request, Mickleham",,4,2,1,,,Pardeep Kumar,https://www.realestate.com.au/property-house-vic-mickleham-145178376,Unchanged
+,"2 Amfissa Street, Wollert",,4,2,2,,,Pir Sidhu,https://www.realestate.com.au/property-house-vic-wollert-146991180,Deleted
+,"13 Englefield Street, Donnybrook",,4,2,2,,275m²,Carlos Misho,https://www.realestate.com.au/property-house-vic-donnybrook-146208528,Deleted
+,"35 Fitzpatrick Circuit, Kalkallo",,3,2,1,,294m²,Mandeep Gagain,https://www.realestate.com.au/property-house-vic-kalkallo-145300068,Unchanged
+"ESR: $579,000 - $619,000","74 Arcturus Dr, Kalkallo",,4,2,1,Inspection Sat 25 Jan 11:45 am,,Carla Primiano,https://www.realestate.com.au/property-house-vic-kalkallo-146506780,Unchanged
+"$560,000-$600,000","15/38 Mallard Circuit, Craigieburn",,4,2,2,Inspection Sat 25 Jan 1:00 pm,,Nav Singh,https://www.realestate.com.au/property-house-vic-craigieburn-146988932,Unchanged
+,"9 Carignan street, Wollert",,4,2,1,,,Jayant Poonia,https://www.realestate.com.au/property-house-vic-wollert-146357480,Unchanged
+"$610,000 - $650,000","31 Viola Street, Donnybrook",,4,2,2,,,Karam Virk,https://www.realestate.com.au/property-house-vic-donnybrook-145917528,Unchanged
+"$650,000 - $670,000","59 Compass Crescent, Donnybrook",,4,2,2,Inspection Sat 25 Jan 10:00 am,,Andrew Chen,https://www.realestate.com.au/property-house-vic-donnybrook-146900980,Unchanged
+,"24 Ambrosia Close, Epping",,4,2,2,Inspection Sat 25 Jan 10:30 am,,Bimal Karki,https://www.realestate.com.au/property-house-vic-epping-146757388,Unchanged
+,"14 Bittersweet Drive, Kalkallo",,4,2,2,,459m²,Nick Dinakis,https://www.realestate.com.au/property-house-vic-kalkallo-146707272,Deleted
+"$620,000 - 650,000 FOR SALE","3 Braeburn Street, Doreen",,3,2,2,,350m²,Andrew Liang,https://www.realestate.com.au/property-house-vic-doreen-144688040,Deleted
+"$600,000 - $619,000","18 Dewpond Crescent, Wollert",,3,2,2,Inspection tomorrow 5:45 pm,,Justin Sciola,https://www.realestate.com.au/property-house-vic-wollert-146505076,Deleted
+,"9 Baker Crescent, Heidelberg Heights",,3,2,2,Inspection Sat 25 Jan 11:00 am,147m²,Larry Li,https://www.realestate.com.au/property-house-vic-heidelberg+heights-146202892,Deleted
+$490k - $520k - Auction Sat 8th February @ 11am,"7 Vautier Avenue, Mickleham",,3,2,1,Inspection Sat 25 Jan 11:00 am,272m²,Kuldeep Patel,https://www.realestate.com.au/property-house-vic-mickleham-146986328,Unchanged
+"$530,000 - $580,000","5 Titchfield Road, Donnybrook",,3,2,2,Inspection Sat 25 Jan 9:30 am,267m²,Leon El Assaad,https://www.realestate.com.au/property-house-vic-donnybrook-146985160,Unchanged
+,"5 Cashmore Place, Roxburgh Park",,3,2,2,,,Evan Yousif,https://www.realestate.com.au/property-house-vic-roxburgh+park-146199008,Unchanged
+,"12 Marchmont Rise, Craigieburn",,4,2,2,,448m²,Sarwan Sandhu,https://www.realestate.com.au/property-house-vic-craigieburn-145171120,Unchanged
+,"6 Chorileana Way, Mickleham",,3,2,1,,,Harry Banga,https://www.realestate.com.au/property-house-vic-mickleham-144685028,Unchanged
+"$499,000 - $539,000","271 Marathon Boulevard, Craigieburn",,3,2,2,Inspection Wed 29 Jan 5:15 pm,,Daniel Sacco,https://www.realestate.com.au/property-house-vic-craigieburn-146349700,Unchanged
+"SBSD: $650,000 - $700,000","18 Oliver Street, Doreen",,4,2,2,Inspection tomorrow 5:00 pm,369m²,Imogen Hammond,https://www.realestate.com.au/property-house-vic-doreen-146982280,Unchanged
+"ESR: $540,000 - $594,000","25 Vincent Drive, South Morang",,4,2,2,Inspection tomorrow 6:00 pm,243m²,Tony Ong,https://www.realestate.com.au/property-house-vic-south+morang-146982260,Unchanged
+"On Site Auction: $500,000 - $550,000","39 Nesting Vista, Craigieburn",,4,2,1,Inspection Sat 25 Jan 10:00 am,,Frankie Azzopardi,https://www.realestate.com.au/property-house-vic-craigieburn-146847684,Deleted
+"$600,000 - $660,000","11 Girraween Crescent, Craigieburn",,5,2,2,Inspection tomorrow 5:00 pm,,Damien Crivelli,https://www.realestate.com.au/property-house-vic-craigieburn-146981712,Unchanged
+"$600,000 - $660,000","41 Cascade Terrace, Craigieburn",,4,2,2,Inspection tomorrow 6:00 pm,,Damien Crivelli,https://www.realestate.com.au/property-house-vic-craigieburn-146981700,Unchanged
+"$565,000 - $595,000","129A Hothlyn Drive, Craigieburn",,3,2,2,Inspection Sat 25 Jan 11:00 am,,Romi Sleiman,https://www.realestate.com.au/property-house-vic-craigieburn-146981688,Unchanged
+"$569,000 - $609,000","24 Bastings Avenue, Mickleham",,3,2,2,Inspection Sat 25 Jan 10:00 am,263m²,Jimmy Gill,https://www.realestate.com.au/property-house-vic-mickleham-146052044,Deleted
+"$580,000 - $620,000","12 Bancroft Street, Wollert",,3,2,1,Inspection Sat 25 Jan 9:15 am,,Romi Sleiman,https://www.realestate.com.au/property-house-vic-wollert-146980692,Deleted
+$580000-$630000,"8 camphor street, Wollert",,3,2,2,Inspection tomorrow 6:30 pm,195.1m²,Ash Bansal,https://www.realestate.com.au/property-house-vic-wollert-146979476,Unchanged
+"$625,000","5 Turion Drive, Mickleham",,3,2,2,,,Pardeep Kumar,https://www.realestate.com.au/property-house-vic-mickleham-145290236,Unchanged
+"$520,000 - $550,000","9 Village Walk, Mernda",,3,2,2,Inspection Sat 25 Jan 1:30 pm,,Steve Gruevski,https://www.realestate.com.au/property-house-vic-mernda-146978480,Unchanged
+,"152 Elevation Boulevard, Craigieburn",,3,2,1,,396m²,Chetan Chauhan,https://www.realestate.com.au/property-house-vic-craigieburn-140738183,Unchanged
+"$560,000 to $595,000","7 & 9 Portswood Drive, Donnybrook",,4,2,1,Inspection Sat 25 Jan 11:30 am,,Robbie Sandhu,https://www.realestate.com.au/property-house-vic-donnybrook-146346168,Unchanged
+,"24 Aniseed Street, Mickleham",,4,2,2,Inspection tomorrow 6:45 pm,365m²,Ryan Gaire,https://www.realestate.com.au/property-house-vic-mickleham-146496896,Unchanged
+,"Address available on request, Donnybrook",,4,3,2,,346m²,Manu Kumar,https://www.realestate.com.au/property-house-vic-donnybrook-146496324,Unchanged
+"PRIVATE SALE $460,000 - $475,000","12 Viewbank Circuit, Roxburgh Park",,3,2,1,,221m²,Mohammed Mahfouz,https://www.realestate.com.au/property-house-vic-roxburgh+park-145909248,Deleted
+$620k - $680k,"959 Pascoe Vale Road, Jacana",,5,2,4,Inspection tomorrow 6:15 pm,697m²,Jatin Mehta,https://www.realestate.com.au/property-house-vic-jacana-146976608,Unchanged
+,"27 Inkerman Crescent, Mickleham",,4,2,1,,295m²,Usman Naseer,https://www.realestate.com.au/property-house-vic-mickleham-138973715,Unchanged
+"$620,000 - $660,000","14 Hurkett Street, Mickleham",,3,2,2,,312.5m²,Nav Sekhon,https://www.realestate.com.au/property-house-vic-mickleham-144677720,Unchanged
+"$520,000 - $572,000","34 Gundagai Circuit, Kalkallo",,3,2,2,Inspection Sat 25 Jan 1:00 pm,262m²,Ron Singh,https://www.realestate.com.au/property-house-vic-kalkallo-146640828,Unchanged
+"$635,000","16 Sunlander Way, Doreen",,3,2,1,Inspection Sat 25 Jan 1:00 pm,320m²,Christian Marchetti,https://www.realestate.com.au/property-house-vic-doreen-146638760,Unchanged
+"$570,000-$600,000  OPEN 25 JAN 12:00Pm-12:30pm","37 Rathdowne Drive, Mickleham",,3,2,1,Inspection Sat 25 Jan 12:00 pm,,Amrit Aulakh,https://www.realestate.com.au/property-house-vic-mickleham-146185864,Unchanged
+,"8 thyridia st, Craigieburn",,3,2,1,,,Jayant Poonia,https://www.realestate.com.au/property-house-vic-craigieburn-146339236,Unchanged
+,"3 Beldi Street, Wollert",,4,2,1,Inspection tomorrow 6:00 pm,,Dave Singh,https://www.realestate.com.au/property-house-vic-wollert-146971180,Unchanged
+,"10 Iceberg Drive, Mernda",,3,2,2,,358m²,Lars Latkoski,https://www.realestate.com.au/property-house-vic-mernda-146636412,Deleted
+,"17 & 19 Hutch Avenue, Donnybrook",,4,2,2,,,Gee Mahna,https://www.realestate.com.au/property-house-vic-donnybrook-143689428,Unchanged
+"$600,000 - $650,000","17 Punchbowl Road, Kalkallo",,4,2,2,Inspection tomorrow 6:30 pm,,Dinesh Mann,https://www.realestate.com.au/property-house-vic-kalkallo-146486108,Unchanged
+,"10 Ashville Place, Craigieburn",,3,2,1,,337m²,Ricky Singh,https://www.realestate.com.au/property-house-vic-craigieburn-142905560,Unchanged
+"$635,000 - $660,000","21 Ovata Grove, Donnybrook",,4,2,2,Inspection Sat 25 Jan 10:15 am,,Karaline Sleiman,https://www.realestate.com.au/property-house-vic-donnybrook-146484348,Unchanged
+"$595,000 - $615,000","5 Finchley Way, Craigieburn",,3,2,1,,,Jay Alvat,https://www.realestate.com.au/property-house-vic-craigieburn-146967564,Unchanged
+"$585,000","Address available on request, Kalkallo",,4,2,2,,,Raj Kapoor,https://www.realestate.com.au/property-house-vic-kalkallo-144280964,Unchanged
+"$650,000 - $670,000","21 Boilersmith Street, Donnybrook",,4,2,2,,350m²,Johnny Ng,https://www.realestate.com.au/property-house-vic-donnybrook-146633300,Unchanged
+"Private Sale $630,000-$650,000","10 Caseys Way, Donnybrook",,4,2,2,Inspection Sat 25 Jan 10:15 am,294m²,Raman Arora,https://www.realestate.com.au/property-house-vic-donnybrook-146481532,Unchanged
+,"12 Cassette Street, Kalkallo",,3,2,2,,,Silky kaur,https://www.realestate.com.au/property-house-vic-kalkallo-146470688,Deleted
+"$580,000 - $610,000","Address available on request, Donnybrook",,3,2,1,,,Nabin Pradhan,https://www.realestate.com.au/property-house-vic-donnybrook-146177052,Unchanged
+"$650,000 - $680,000","17 Beaconsfield Drive, Mickleham",,4,2,2,Inspection tomorrow 5:45 pm,,Sam Cagin,https://www.realestate.com.au/property-house-vic-mickleham-146326476,Unchanged
+,"4 Glossodia Way, Mickleham",,4,4,2,,,Ali Alsalemy,https://www.realestate.com.au/property-house-vic-mickleham-146630304,Unchanged
+,"16 Mumm Street, Wollert",,3,2,1,,,Asmita Kandel,https://www.realestate.com.au/property-house-vic-wollert-145276240,Unchanged
+"$599,000 - $658,000","33 Millicent Drive, Craigieburn",,4,2,2,Inspection Sat 25 Jan 11:00 am,401m²,Brian Mishra,https://www.realestate.com.au/property-house-vic-craigieburn-146964648,Unchanged
+"$490,000 - $520,000","44 Darwinia Drive, Mickleham",,3,2,1,,,Shayla Spiteri,https://www.realestate.com.au/property-house-vic-mickleham-146895220,Unchanged
+"$630,000 - $670,000","14 Byron Street, Donnybrook",,4,2,2,Inspection Sat 25 Jan 11:30 am,,Jagjeet Tiwana,https://www.realestate.com.au/property-house-vic-donnybrook-146478076,Deleted
+"$520,000 - $560,000","15 Grenville Terrace, Roxburgh Park",,3,2,2,,,Asad Khan,https://www.realestate.com.au/property-house-vic-roxburgh+park-146754068,Unchanged
+"$630,000 - $685,000","28 Rainham Avenue, Craigieburn",,3,2,1,Inspection Sat 25 Jan 11:15 am,,Karaline Sleiman,https://www.realestate.com.au/property-house-vic-craigieburn-146476080,Unchanged
+,"11 Callery Pear Street, Greenvale",,3,2,1,,320m²,Malek Younan,https://www.realestate.com.au/property-house-vic-greenvale-146962672,Deleted
+"$650,000 - $680,000","64 Rulinga Street, Donnybrook",,4,2,2,,,Dinesh Mann,https://www.realestate.com.au/property-house-vic-donnybrook-146753276,Unchanged
+,"3 Northampton Way, Donnybrook",,4,2,2,,,Sunil Gandham,https://www.realestate.com.au/property-house-vic-donnybrook-146752836,Unchanged
+$630K - $680K,"10 Midland Way, Craigieburn",,3,2,2,,448m²,Carlos Misho,https://www.realestate.com.au/property-house-vic-craigieburn-146960788,Deleted
+"$539,000 - $569,000","42 Nasturium Street, Kalkallo",,3,2,1,Inspection tomorrow 5:30 pm,,Karan Kamboj,https://www.realestate.com.au/property-house-vic-kalkallo-146960384,Unchanged
+,"31 Huntingtower Avenue, Mickleham",,4,2,2,,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-mickleham-146624284,Unchanged
+,"3 Humboldt Street, Kalkallo",,4,2,1,Inspection Tue 28 Jan 6:00 pm,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-kalkallo-146168448,Unchanged
+"$580,000 - $610,000","10 Valonia Court, Craigieburn",,4,2,2,Inspection Sat 25 Jan 12:30 pm,653.1m²,Vinny Singh,https://www.realestate.com.au/property-house-vic-craigieburn-146958620,Unchanged
+"$630,000 - $660,000","9 Dargile Circuit, Epping",,4,2,2,Inspection Sat 25 Jan 1:00 pm,,Monty Sahni,https://www.realestate.com.au/property-house-vic-epping-146958284,Unchanged
+"$645,000 - $695,000","322 The Lakes Boulevard, South Morang",,3,2,2,,309m²,Danny Al saad,https://www.realestate.com.au/property-house-vic-south+morang-146843272,Deleted
+,"72 Rulingia Road, Donnybrook",,4,2,1,,,Ali Al Saffar,https://www.realestate.com.au/property-house-vic-donnybrook-146620632,Unchanged
+"$590,000-$610,000","554 Brookfield Boulevard, Mickleham",,4,2,2,Inspection Sat 25 Jan 12:00 pm,,Dario Haljeta,https://www.realestate.com.au/property-house-vic-mickleham-146956440,Unchanged
+"$640,000 - $660,000","4 Jukes Mews, Donnybrook",,4,2,2,,294m²,Love Sharma,https://www.realestate.com.au/property-house-vic-donnybrook-144653764,Unchanged
+"$590,000 - $610,000","Address available on request, Donnybrook",,4,2,1,,244m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146467352,Unchanged
+,"Address available on request, Mickleham",,4,2,2,,294m²,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-mickleham-143279424,Unchanged
+,"24 Foreshore Drive, Donnybrook",,4,2,2,Inspection Sat 25 Jan 2:15 pm,,Ali Celik,https://www.realestate.com.au/property-house-vic-donnybrook-146956036,Unchanged
+"$650,000 - $665,000","10 Jum Way, Donnybrook",,4,2,2,Inspection tomorrow 7:15 pm,,Love Sharma,https://www.realestate.com.au/property-house-vic-donnybrook-146466788,Deleted
+"ESR: $619,000 $649,000","16 Cilantro Street, Kalkallo",,4,2,2,Inspection Sat 25 Jan 11:00 am,312m²,Tarwinder Kullar,https://www.realestate.com.au/property-house-vic-kalkallo-146618760,Unchanged
+"$480,000-$510,000","37 Rowell Drive, Mernda",,3,2,2,Inspection Sat 25 Jan 11:30 am,,Jim Vasiliou,https://www.realestate.com.au/property-house-vic-mernda-146164108,Unchanged
+,"29 Maryland Road, Kalkallo",,4,3,2,,,Pir Sidhu,https://www.realestate.com.au/property-house-vic-kalkallo-146746720,Unchanged
+"$549,000","Lot 36357 Fillmore Drive, Craigieburn",,4,2,2,,162m²,Ethan Playnsek,https://www.realestate.com.au/property-house-vic-craigieburn-146954768,Unchanged
+,"Address available on request, Wollert",,4,2,1,,,Kiranvir Buttar,https://www.realestate.com.au/property-house-vic-wollert-141798344,Unchanged
+,"10 Mulholland Street, Kalkallo",,4,2,2,,294m²,Gaurika Kohli,https://www.realestate.com.au/property-house-vic-kalkallo-146746064,Unchanged
+"EOI - $565,000 - $595,000","66 Woodman Circuit, Wollert",,3,2,2,Inspection tomorrow 7:00 pm,231m²,Alex Doguluer,https://www.realestate.com.au/property-house-vic-wollert-146952604,Unchanged
+,"27 Corymbia Street, Mickleham",,4,2,2,,,Fadi Yousif,https://www.realestate.com.au/property-house-vic-mickleham-145639344,Unchanged
+,"1 Jum Way, Donnybrook",,4,2,2,,333m²,Arvin Nagra,https://www.realestate.com.au/property-house-vic-donnybrook-146463740,Deleted
+,"9 Currawong Street, Kalkallo",,4,2,2,Inspection tomorrow 5:45 pm,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-kalkallo-146812256,Unchanged
+,"3 Eulinga Street, Mickleham",,4,2,2,,,Ali Al Saffar,https://www.realestate.com.au/property-house-vic-mickleham-146820720,Unchanged
+"$600,000 - 660,000","14 Amfissa Street, Wollert",,4,2,2,Inspection tomorrow 5:45 pm,,Love Sharma,https://www.realestate.com.au/property-house-vic-wollert-146841488,Deleted
+"$585,000 - $625,000","26 Brass Loop, Wollert",,3,2,1,,,Indy Singh,https://www.realestate.com.au/property-house-vic-wollert-146461660,Unchanged
+"Auction: $600,000 to $660,000","17 Taggiasca Drive, Wollert",,4,2,4,Inspection Sat 25 Jan 11:00 am,262m²,Kamal Kanaan,https://www.realestate.com.au/property-house-vic-wollert-146841052,Deleted
+"$580,000-$620,000","14 Golden Pkwy, Donnybrook",,4,2,1,,253m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146743444,Unchanged
+"$580,000 - $610,000","Address available on request, Greenvale",,3,2,1,,,Jessica Kaur,https://www.realestate.com.au/property-house-vic-greenvale-144906036,Unchanged
+,"81 Gossia Avenue, Craigieburn",,3,2,1,,,Asad Khan,https://www.realestate.com.au/property-house-vic-craigieburn-145388796,Unchanged
+"640,000 - $680,000","10 Goldington Street, Mickleham",,4,2,2,,387m²,,https://www.realestate.com.au/property-house-vic-mickleham-145874616,Deleted
+,"198 Highlander Drive, Craigieburn",,3,2,2,,,Admon Paules,https://www.realestate.com.au/property-house-vic-craigieburn-146458932,Deleted
+,"20 Sommerville Avenue, Mernda",,4,2,2,,,Bobby Kosuri,https://www.realestate.com.au/property-house-vic-mernda-146741524,Deleted
+"$580,000 - $610,000","14 Serenade Street, Donnybrook",,3,2,1,,,Sunny Bawa,https://www.realestate.com.au/property-house-vic-donnybrook-145388064,Unchanged
+"ESR: $650,000 - $680,000","30 Guardian Street, Mickleham",,4,2,2,,,Mandeep Gaudia,https://www.realestate.com.au/property-house-vic-mickleham-145900352,Unchanged
+"$570,000","26 Eremophila Circuit, Craigieburn",,3,2,2,Inspection Sat 25 Jan 9:30 am,212m²,Michael Chan,https://www.realestate.com.au/property-house-vic-craigieburn-146741028,Unchanged
+"$550,000 to $570,000","57 Bethnal Avenue, Wollert",,3,2,1,,,Jessica Kaur,https://www.realestate.com.au/property-house-vic-wollert-145631700,Unchanged
+,"13 Cherry Court, Meadow Heights",,4,2,2,Inspection Sat 25 Jan 12:00 pm,530m²,Nadir Jeboo,https://www.realestate.com.au/property-house-vic-meadow+heights-146608320,Unchanged
+"$575,000 - $595,000","20 Leith Drive, Mernda",,3,2,2,Inspection Sat 25 Jan 1:25 pm,300m²,Mario Tucci,https://www.realestate.com.au/property-house-vic-mernda-146725612,Deleted
+"Private Sale - Contact Agent | $550,000 - $580,000","35 Bowenia Avenue, Craigieburn",,3,2,1,Inspection Sat 25 Jan 1:00 pm,,Sammar Rana,https://www.realestate.com.au/property-house-vic-craigieburn-146896924,Unchanged
+"$600,000","Address available on request, Donnybrook",,4,3,2,,,Raj Kapoor,https://www.realestate.com.au/property-house-vic-donnybrook-143787084,Unchanged
+"ESR $650,000 - $700,000","10 Trainor Street, Doreen",,4,2,2,,440m²,Luke El Moussalli,https://www.realestate.com.au/property-house-vic-doreen-145765416,Unchanged
+"$650,000 - $695,000","25A Liston Avenue, Reservoir",,3,2,2,Inspection tomorrow 5:30 pm,,Isaac Katsouranis,https://www.realestate.com.au/property-house-vic-reservoir-146607224,Deleted
+,"5 Robin Road, Mickleham",,4,2,2,,,Harry Banga,https://www.realestate.com.au/property-house-vic-mickleham-146304004,Deleted
+"$629,900 - $664,900","30 Petersfield Way, Donnybrook",,4,2,2,Inspection Sat 25 Jan 11:00 am,,Mohit Jain,https://www.realestate.com.au/property-house-vic-donnybrook-146303764,Unchanged
+"$570,000 - $610,000","4 Saint Michel Place, South Morang",,3,2,2,,206m²,Rob Stefanovski,https://www.realestate.com.au/property-house-vic-south+morang-146836840,Deleted
+,"22 Bracegirdle Drive, Mickleham",,4,3,4,Inspection tomorrow 7:00 pm,,Aayush Sharma,https://www.realestate.com.au/property-house-vic-mickleham-146736976,Unchanged
+"$550,000 - $600,000","10 Turion Drive, Mickleham",,3,2,2,Inspection Sat 25 Jan 12:00 pm,,Daniel Di Battista,https://www.realestate.com.au/property-house-vic-mickleham-146881520,Unchanged
+,"10 Nomad Road, Kalkallo",,4,2,2,Inspection tomorrow 6:30 pm,,Harry Banga,https://www.realestate.com.au/property-house-vic-kalkallo-146450536,Unchanged
+"$580,000 - $610,000","4 Mulholland Street, Kalkallo",,3,2,2,Inspection Sat 25 Jan 11:15 am,279m²,Usman Maan,https://www.realestate.com.au/property-house-vic-kalkallo-146668792,Unchanged
+"$610,000 - $660,000","36 Hessel Avenue, Doreen",,4,2,2,Inspection Sat 25 Jan 9:30 am,,Raj Bhatia,https://www.realestate.com.au/property-house-vic-doreen-146598856,Unchanged
+"$610,000 - $640,000","10 Yucca Road, Kalkallo",,4,2,2,,312m²,,https://www.realestate.com.au/property-house-vic-kalkallo-145757100,Unchanged
+,"5 Ontario Parade, Mickleham",,4,2,1,,,Evan Yousif,https://www.realestate.com.au/property-house-vic-mickleham-144892956,Unchanged
+,"47 Nectar Street, Mickleham",,3,2,2,,,Ryan Gaire,https://www.realestate.com.au/property-house-vic-mickleham-145622120,Unchanged
+,"27 Thaine Way, Doreen",,4,2,2,,350m²,Larry Li,https://www.realestate.com.au/property-house-vic-doreen-146731304,Deleted
+,"23 Apsley Drive, Mickleham",,4,2,1,,,Amit Verma,https://www.realestate.com.au/property-house-vic-mickleham-143131188,Unchanged
+,"22 Nasturium Street, Kalkallo",,4,2,2,Inspection tomorrow 5:45 pm,302m²,Abdul Sleman,https://www.realestate.com.au/property-house-vic-kalkallo-146895668,Deleted
+,"6 Ambigua Way, Donnybrook",,4,2,1,Inspection Sat 25 Jan 11:00 am,,Karan Singh,https://www.realestate.com.au/property-house-vic-donnybrook-146028184,Unchanged
+"$650,000 - $710,000","9 Countess Circuit, Wollert",,4,2,2,Inspection Sat 25 Jan 11:45 am,313m²,Hardy Singh,https://www.realestate.com.au/property-house-vic-wollert-146728504,Unchanged
+"$550,000 - 570,000","38 Fillmore Drive, Craigieburn",,4,2,2,,,Shayla Spiteri,https://www.realestate.com.au/property-house-vic-craigieburn-146895228,Deleted
+"$470,000 - $490,000","7 Baltic Walk, Craigieburn",,3,2,2,,287m²,Trish Orrico,https://www.realestate.com.au/property-house-vic-craigieburn-146895224,Deleted
+"$470,000 - $490,000","43 Vautier Avenue, Mickleham",,3,2,1,,,Adrian Prestileo,https://www.realestate.com.au/property-house-vic-mickleham-146895212,Deleted
+"$600,000 - $630,000","19 Cochrane Avenue, Mickleham",,4,2,2,,,Adrian Prestileo,https://www.realestate.com.au/property-house-vic-mickleham-146895208,Unchanged
+,"13 Bracegirdle Drive, Mickleham",,3,2,2,,,Mickey (Sween) Arya,https://www.realestate.com.au/property-house-vic-mickleham-146591396,Unchanged
+,"17 Bracegirdle Drive, Mickleham",,3,2,2,,,Mickey (Sween) Arya,https://www.realestate.com.au/property-house-vic-mickleham-146591024,Unchanged
+,"40 Mound Avenue, Donnybrook",,4,2,2,,,Sahib Singh,https://www.realestate.com.au/property-house-vic-donnybrook-146829144,Unchanged
+"$630,000","20 Ivory Road, Donnybrook",,4,2,1,Inspection Sat 25 Jan 1:00 pm,294m²,Elia Kakos,https://www.realestate.com.au/property-house-vic-donnybrook-146725928,Unchanged
+"$630,000 - $660,000","Address available on request, Donnybrook",,4,2,2,,,Ricky Randhawa,https://www.realestate.com.au/property-house-vic-donnybrook-145883376,Unchanged
+"$590,000-$610,000","Address available on request, Donnybrook",,3,2,2,,,Inder Ghumman,https://www.realestate.com.au/property-house-vic-donnybrook-146161136,Unchanged
+,"17/11 Troward Harvey Way, Craigieburn",,3,2,2,Inspection Sat 25 Jan 1:00 pm,,Rashna Luitel,https://www.realestate.com.au/property-house-vic-craigieburn-145882932,Unchanged
+"AUCT ESR  $510,000 - $560,000","9 Jasmine Court, Meadow Heights",,3,2,1,Inspection Sat 25 Jan 2:00 pm,494m²,Rob Stefanovski,https://www.realestate.com.au/property-house-vic-meadow+heights-146894032,Unchanged
+"$599,000-$650,000","27 Foxley Crescent, Mickleham",,4,2,1,Inspection Sat 25 Jan 12:30 pm,289m²,Ali Faour,https://www.realestate.com.au/property-house-vic-mickleham-146020296,Unchanged
+"$580,000 - $620,000","9  Outback Drive, Doreen",,3,2,2,,,Jude Kattan,https://www.realestate.com.au/property-house-vic-doreen-145262892,Unchanged
+"$580,000 to $610,000","25 Albida Street, Donnybrook",,3,2,2,,,Pir Sidhu,https://www.realestate.com.au/property-house-vic-donnybrook-146019728,Unchanged
+$602k if eligible for FHOG* - $612k,"1121 Woodlawn Road, Wollert",,4,2,2,,325m²,Brad Alba,https://www.realestate.com.au/property-house-vic-wollert-146950340,Deleted
+"ESR: $650,000 - $695,000","42 Elation Boulevard, Doreen",,3,2,2,Inspection Sat 25 Jan 10:00 am,,Tony Ong,https://www.realestate.com.au/property-house-vic-doreen-145877840,Unchanged
+,"Address available on request, Kalkallo",,4,2,4,,,Aman Verma,https://www.realestate.com.au/property-house-vic-kalkallo-146824020,Unchanged
+"$630,000","3 Olney Mews, Donnybrook",,4,2,2,Inspection Sat 25 Jan 12:45 pm,350m²,Inshira Koralagama,https://www.realestate.com.au/property-house-vic-donnybrook-146948756,Unchanged
+"$590,000 - $640,000","32 Sodium Street, Kalkallo",,4,2,2,Inspection Sat 25 Jan 10:45 am,,Karam Virk,https://www.realestate.com.au/property-house-vic-kalkallo-143667604,Unchanged
+"$545,000 - $575,000","51 Mealie Avenue, Mickleham",,3,2,1,,,Damien Caputo,https://www.realestate.com.au/property-house-vic-mickleham-146893412,Unchanged
+"ASKING PRICE $495,000","5 Brentwood Place, Roxburgh Park",,3,2,1,,,Andrew Forehan,https://www.realestate.com.au/property-house-vic-roxburgh+park-146582528,Deleted
+,"31 Winterfell Road, Donnybrook",,4,2,2,,350m²,Jessica Kaur,https://www.realestate.com.au/property-house-vic-donnybrook-146718828,Unchanged
+"$640,000 - $700,000","43 Burrun Crescent, Epping",,4,2,2,Inspection Sat 25 Jan 10:30 am,,Hayden Assaad,https://www.realestate.com.au/property-house-vic-epping-146948124,Unchanged
+,"5 Deau Avenue, Wollert",,5,3,2,,,Romi Sleiman,https://www.realestate.com.au/property-house-vic-wollert-146822344,Unchanged
+"Auction $590,000 - $645,000","29 Seggan Circle, Gowanbrae",,3,2,1,Inspection Sat 25 Jan 8:15 am,,David Vaughan,https://www.realestate.com.au/property-house-vic-gowanbrae-145874488,Unchanged
+,"34 Times Street, Kalkallo",,4,2,1,,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-kalkallo-146015040,Unchanged
+,"10 Punchbowl Road, Kalkallo",,3,2,1,,,Admon Paules,https://www.realestate.com.au/property-house-vic-kalkallo-145874212,Deleted
+,"2 Kenora Way, Mickleham",,3,3,1,Inspection Sat 25 Jan 10:00 am,260m²,Inder Jassar,https://www.realestate.com.au/property-house-vic-mickleham-146717868,Unchanged
+,"13 Bowery Road, Kalkallo",,4,2,1,,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-kalkallo-144755560,Unchanged
+,"11 Dalgety Street, Mickleham",,4,2,2,Inspection Sat 25 Jan 1:45 pm,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-mickleham-146580816,Deleted
+"$510,000 - $550,000 !! MUST SELL !!","59 Curbridge Drive, Donnybrook",,3,2,2,Inspection tomorrow 6:00 pm,,Mohit Jain,https://www.realestate.com.au/property-house-vic-donnybrook-145873116,Deleted
+,"11 Mcinerney Road, Kalkallo",,3,2,2,Inspection Sat 25 Jan 11:15 am,350m²,Arvin Nagra,https://www.realestate.com.au/property-house-vic-kalkallo-146440056,Unchanged
+,"11 Yancey Street, Donnybrook",,4,2,2,Inspection Fri 24 Jan 6:15 pm,,Kabir Nagpal,https://www.realestate.com.au/property-house-vic-donnybrook-146820796,Unchanged
+"$620,000-$660,000","Address available on request, Wollert",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-wollert-143522252,Unchanged
+"$630,000 - $670,000 Great Value !!!","28 Illawara Drive, Mickleham",,4,2,2,Inspection Sat 25 Jan 11:00 am,,Ralph DeMarchi,https://www.realestate.com.au/property-house-vic-mickleham-145739976,Unchanged
+,"4 Magnesium Road, Kalkallo",,4,2,2,Inspection Sat 25 Jan 2:20 pm,,Mickey (Sween) Arya,https://www.realestate.com.au/property-house-vic-kalkallo-146946200,Unchanged
+"$570,000 - $595,000","10 Atwood Street, Doreen",,3,2,1,Inspection Sat 25 Jan 10:00 am,237m²,Troy Hodge,https://www.realestate.com.au/property-house-vic-doreen-146579536,Unchanged
+,"25 Whitebark Street, Wollert",,4,2,2,,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-wollert-145257344,Unchanged
+"$550,000 - $590,000","13 Nagambie Road, Kalkallo",,4,2,1,Inspection Sat 25 Jan 11:45 am,,Ricky Singh,https://www.realestate.com.au/property-house-vic-kalkallo-146716168,Unchanged
+,"7 Bentham Street, Roxburgh Park",,3,2,2,Inspection tomorrow 5:30 pm,,Michael Abbas,https://www.realestate.com.au/property-house-vic-roxburgh+park-146578768,Unchanged
+"$480,000 - $520,000","6/7 Whiltshire Drive, Roxburgh Park",,3,2,2,Inspection tomorrow 6:00 pm,,Aditya Ghanghas,https://www.realestate.com.au/property-house-vic-roxburgh+park-145738704,Unchanged
+,"4 Jamieson Court, Epping",,3,2,4,Inspection Sat 25 Jan 11:15 am,528m²,Leon El Assaad,https://www.realestate.com.au/property-house-vic-epping-146891412,Deleted
+,"8 Vicarage Drive, Wollert",,4,2,2,Inspection Sat 25 Jan 12:15 pm,350m²,Sherry Singh,https://www.realestate.com.au/property-house-vic-wollert-146891392,Deleted
+,"10 Luminous Street, Epping",,3,2,2,Inspection Sat 25 Jan 11:30 am,338m²,Sherry Singh,https://www.realestate.com.au/property-house-vic-epping-146891388,Deleted
+,"90 Alexander Avenue, Thomastown",,4,2,3,Inspection Sat 25 Jan 9:45 am,676m²,Mario Tucci,https://www.realestate.com.au/property-house-vic-thomastown-146891256,Deleted
+,"101 The Parade, Wollert",,3,2,4,Inspection Sat 25 Jan 12:30 pm,394m²,Mario Tucci,https://www.realestate.com.au/property-house-vic-wollert-146891248,Deleted
+,"33 Eynesbury View, Wollert",,3,2,1,Inspection Sat 25 Jan 10:30 am,300m²,Paul Rametta,https://www.realestate.com.au/property-house-vic-wollert-146891236,Deleted
+,"32 Plowman Court, Epping",,3,2,2,Inspection Sat 25 Jan 12:45 pm,558m²,Leon El Assaad,https://www.realestate.com.au/property-house-vic-epping-146890868,Deleted
+"$640,000 - $690,000","33 Winterfell Road, Donnybrook",,4,2,2,,,Jagjeet Tiwana,https://www.realestate.com.au/property-house-vic-donnybrook-145737620,Unchanged
+,"13/10 Heywood Street, Doreen",,3,2,2,Inspection Sat 25 Jan 10:45 am,467m²,Joel Viavattene,https://www.realestate.com.au/property-house-vic-doreen-146890656,Unchanged
+,"Address available on request, Kalkallo",,4,2,2,,,Gaurika Kohli,https://www.realestate.com.au/property-house-vic-kalkallo-144252596,Unchanged
+,"15 Beaconsfield Drive, Mickleham",,4,2,1,Inspection tomorrow 6:00 pm,,Amit Verma,https://www.realestate.com.au/property-house-vic-mickleham-146009760,Unchanged
+,"30 Coolangatta Drive, Mickleham",,4,3,2,,,Ali Alsalemy,https://www.realestate.com.au/property-house-vic-mickleham-146577372,Unchanged
+"$640,000 - $660,000","2 Sodium Street, Donnybrook",,4,2,2,,340m²,,https://www.realestate.com.au/property-house-vic-donnybrook-137825690,Unchanged
+"$590,000","Address available on request, Kalkallo",,4,2,1,,,Param Singh,https://www.realestate.com.au/property-house-vic-kalkallo-145858968,Unchanged
+,"28 Coolangatta Drive, Mickleham",,3,2,2,,262.49m²,Nitin Batra,https://www.realestate.com.au/property-house-vic-mickleham-145126988,Unchanged
+"$480,000 - $528,000","9 Gossamer Way, Mickleham",,3,2,2,,,Con Tsalkos,https://www.realestate.com.au/property-house-vic-mickleham-146711148,Unchanged
+"ESR $640,000 - $700,000","9 Bunting Crescent, Kalkallo",,4,2,2,,392m²,Rob Stefanovski,https://www.realestate.com.au/property-house-vic-kalkallo-146146260,Unchanged
+,"1 Carlton Court, Craigieburn",,3,2,2,Inspection Sat 25 Jan 1:00 pm,657m²,Nadir Jeboo,https://www.realestate.com.au/property-house-vic-craigieburn-146709836,Unchanged
+"$650,000 - $680,000","2 Coolgardie Way, Doreen",,4,2,3,,491m²,Tony Brakis,https://www.realestate.com.au/property-house-vic-doreen-146144708,Unchanged
+"$460,000 - $490,000","17 Nomad Rd, Kalkallo",,3,2,1,Inspection tomorrow 6:15 pm,,Shayla Spiteri,https://www.realestate.com.au/property-house-vic-kalkallo-146939700,Unchanged
+,"304 Brookfield Boulevard, Craigieburn",,3,2,2,,,Con Lonigro,https://www.realestate.com.au/property-house-vic-craigieburn-144866532,Unchanged
+,"11 Nagambie Road, Kalkallo",,4,3,2,,,Ryan Gaire,https://www.realestate.com.au/property-house-vic-kalkallo-145998800,Unchanged
+"AUCT ESR $649,000 - $710,000","79 Herman Road, Lalor",,3,2,2,Inspection tomorrow 6:15 pm,558m²,Michael Carrafa,https://www.realestate.com.au/property-house-vic-lalor-146938572,Deleted
+,"20 Catisfield Circuit, Donnybrook",,4,2,2,Inspection tomorrow 6:00 pm,400m²,Kiranvir Buttar,https://www.realestate.com.au/property-house-vic-donnybrook-146938420,Deleted
+"Private sale $600,000-$650,000","15 Calf Street, Donnybrook",,4,2,2,,,Don Jayawardene,https://www.realestate.com.au/property-house-vic-donnybrook-146812920,Unchanged
+"$595,000","Address available on request, Donnybrook",,4,2,2,,,Raj Kapoor,https://www.realestate.com.au/property-house-vic-donnybrook-144863400,Unchanged
+"$640,000-$670,000","22  Countess circuit, Wollert",,4,2,2,Inspection tomorrow 6:45 pm,,Inder Ghumman,https://www.realestate.com.au/property-house-vic-wollert-145995124,Unchanged
+,"21 Bellfield Drive, Craigieburn",,3,2,2,,,Waseem Gethya,https://www.realestate.com.au/property-house-vic-craigieburn-146286092,Deleted
+,"69 Sandover Drive, Roxburgh Park",,3,2,2,Inspection tomorrow 6:00 pm,459m²,Khaled Khaled,https://www.realestate.com.au/property-house-vic-roxburgh+park-145856248,Unchanged
+"$580,000 - $620,000","49B Burrora Way, Craigieburn",,4,2,2,Inspection Sat 25 Jan 12:15 pm,448m²,Aaron Taranto,https://www.realestate.com.au/property-house-vic-craigieburn-146934448,Deleted
+,"59 Alloca Crescent, Donnybrook",,4,2,2,Inspection tomorrow 6:00 pm,,Raj Singh,https://www.realestate.com.au/property-house-vic-donnybrook-146283192,Unchanged
+,"8 Cromarty Crescent, Kalkallo",,4,2,2,Inspection Sat 25 Jan 11:00 am,,Mickey (Sween) Arya,https://www.realestate.com.au/property-house-vic-kalkallo-146932496,Deleted
+,"19 Punchbowl Road, Kalkallo",,4,3,1,Inspection tomorrow 5:00 pm,,Bobby Kosuri,https://www.realestate.com.au/property-house-vic-kalkallo-146930808,Unchanged
+"Reserve Price - $649,000","29 Smiley Road, Broadmeadows",,4,2,2,Inspection Sat 25 Jan 10:45 am,639m²,Carlo Rauso,https://www.realestate.com.au/property-house-vic-broadmeadows-145988012,Deleted
+"PRIVATE SALE | $630,000-$680,000","24 Rhine Drive, Roxburgh Park",,3,2,1,Inspection Sat 25 Jan 11:10 am,304m²,Ali Faour,https://www.realestate.com.au/property-house-vic-roxburgh+park-146930620,Unchanged
+,"17 Cobb Street, South Morang",,4,3,2,Inspection Sat 25 Jan 12:00 pm,367m²,Tony Ong,https://www.realestate.com.au/property-house-vic-south+morang-146929748,Unchanged
+,"34 Stilt Street, Kalkallo",,4,3,2,,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-kalkallo-146807172,Deleted
+,"27 Goodia Street, Wollert",,4,2,2,Inspection tomorrow 5:30 pm,404m²,Manish Sharma,https://www.realestate.com.au/property-house-vic-wollert-146807164,Deleted
+"$650,000 - $680,000","15 Prosecco Street, Wollert",,4,2,1,Inspection tomorrow 5:00 pm,,Manish Sharma,https://www.realestate.com.au/property-house-vic-wollert-145233472,Deleted
+,"Address available on request, Donnybrook",,3,2,2,,,Bikram Sidhu,https://www.realestate.com.au/property-house-vic-donnybrook-145850012,Unchanged
+"$600,000 - $660,000","110 Arcturus Drive, Kalkallo",,4,2,1,,,Wahid Baqi,https://www.realestate.com.au/property-house-vic-kalkallo-145231356,Unchanged
+"$570,000 - $627,000","119 Vantage Boulevard, Craigieburn",,3,2,2,Inspection Sat 25 Jan 11:30 am,,Mazen Enwia,https://www.realestate.com.au/property-house-vic-craigieburn-146126448,Unchanged
+,"41 Myrtleford Street, Wollert",,3,2,2,Inspection Sat 25 Jan 2:30 pm,,Petar Djeparoski,https://www.realestate.com.au/property-house-vic-wollert-146886576,Unchanged
+"Private Slae-$649,000-$699,000","49 Mealie Ave, Mickleham",,4,2,1,Inspection tomorrow 7:00 pm,,,https://www.realestate.com.au/property-house-vic-mickleham-146658204,Unchanged
+"$589,009","Lot 748 Plimsoll Street, Mickleham",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-mickleham-146962640,Unchanged
+,"13 Boilersmith Street, Donnybrook",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-142236472,Unchanged
+"$631,300","LOT 21160 KATALIA ESTATE, Donnybrook",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146781676,Deleted
+,"10 Bergamot Way, South Morang",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-south+morang-146927576,Deleted
+"New Built &  Luxury"" 3m Ceilings","74 Woodman Cct, Wollert",,3,2,4,,,,https://www.realestate.com.au/property-house-vic-wollert-146507392,Unchanged
+"TITLED LAND $641,600","Lot 234 Azure Road, Wollert",,3,2,2,,317m²,,https://www.realestate.com.au/property-house-vic-wollert-146897936,Unchanged
+"$585,000 5% DEPOSIT ONLY, ONE CONTRACT","Lot 428 Mylius Street, Wollert",,3,2,2,,118.54m²,,https://www.realestate.com.au/property-house-vic-wollert-146897916,Unchanged
+"$640,000","28 Haystack Drive, Wollert",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-wollert-147041072,Unchanged
+"$628,000","17 Kenora way, Mickleham",,4,2,2,,262m²,,https://www.realestate.com.au/property-house-vic-mickleham-147040128,Unchanged
+"$615,000 - 625,000","55 Haystack Drive, Wollert",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-wollert-147037932,Unchanged
+"$613,825* - FULL TURN KEY! ENQUIRE NOW!","1610 Commonwealth Circuit, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147036912,Unchanged
+,"7 Chilworth Street, Donnybrook",,3,2,1,Inspection Sat 25 Jan 1:00 pm,,,https://www.realestate.com.au/property-house-vic-donnybrook-147026988,Unchanged
+,"26 Ironcap Road, Mickleham",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-147026412,Unchanged
+,"28 Ironcap Road, Mickleham",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-147026540,Unchanged
+,"4 Nitraria Street, Mickleham",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-147026236,Unchanged
+,"6 Nitraria Street, Mickleham",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-147026284,Unchanged
+"$619,450","Address available on request, Wollert",,3,2,1,,238m²,,https://www.realestate.com.au/property-house-vic-wollert-147015516,Unchanged
+"$597,900","Address available on request, Wollert",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-wollert-147015988,Unchanged
+"$576,406","Lot 33221 Alisterus Road, Kalkallo",,3,2,1,,262.5m²,,https://www.realestate.com.au/property-house-vic-kalkallo-147019792,Unchanged
+"$630,000- $680,000","35 Manning Clark Road, Mill Park",,3,2,2,Inspection Sat 25 Jan 2:00 pm,,,https://www.realestate.com.au/property-house-vic-mill+park-146875900,Unchanged
+$650000-$700000,"14  croce avenue, Wollert",,4,2,2,Inspection tomorrow 7:45 pm,,,https://www.realestate.com.au/property-house-vic-wollert-147012048,Deleted
+"$648,818","Lot 3207 Awbridge Dr, Donnybrook",,4,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147005996,Unchanged
+$650000-$700000,"Address available on request, Wollert",,4,2,2,,195.1m²,,https://www.realestate.com.au/property-house-vic-wollert-146990596,Unchanged
+"$530,000 - $580,000","9 Tomentosa Court, Donnybrook",,3,2,1,Inspection Sat 25 Jan 11:45 am,178.5m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146985724,Unchanged
+"$580,000 - $595,000","1 Tomentosa Court, Donnybrook",,4,2,1,Inspection Sat 25 Jan 11:45 am,217.5m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146985708,Unchanged
+"$580,000 - $620,000","18 Molesworth Crescent, Donnybrook",,4,2,2,Inspection tomorrow 6:00 pm,242m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146983448,Unchanged
+"$649,100","LOT 1909 LYNDARUM NORTH ESTATE, Wollert",,3,2,2,,300m²,,https://www.realestate.com.au/property-house-vic-wollert-146976380,Deleted
+"$644,150","Lot 32941 Antares Parade, Kalkallo",,3,2,2,,336m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146976424,Deleted
+"$642,850","Lot 3207 Awbridge Drive, Donnybrook",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146976440,Unchanged
+"$634,250","LOT 21160 KATALIA ESTATE, Donnybrook",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146976392,Deleted
+"$609,000","Lot 21209 Katalia Estate, Donnybrook",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146976548,Deleted
+"$608,101","Lot 21180 Molesworth Crescent  (Katalia), Donnybrook",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146927144,Deleted
+"$594,100","LOT 21159 KATALIA ESTATE, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146976384,Unchanged
+"$565,000","Lot 21233 Katalia Estate, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146976540,Deleted
+"$576,686","Lot 1010 Rainbow Street, Wollert",,3,2,2,,274m²,,https://www.realestate.com.au/property-house-vic-wollert-146965472,Unchanged
+"$550,800 To $570,800","Lot 323 Bango Way, Donnybrook",,4,2,1,,213m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146969412,Unchanged
+$648k if eligible for FHOG* - $658k,"1121 Woodlawn Road, Wollert",,4,2,2,,325m²,,https://www.realestate.com.au/property-house-vic-wollert-146956560,Deleted
+"$639,109","Lot 21104 Pulchella Crescent, Donnybrook",,3,2,1,,389m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146958496,Unchanged
+,"7 Prosecco Street, Wollert",,3,2,1,Inspection tomorrow 5:00 pm,,,https://www.realestate.com.au/property-house-vic-wollert-145232412,Deleted
+,"5 Prosecco Street, Wollert",,3,2,1,Inspection tomorrow 5:00 pm,,,https://www.realestate.com.au/property-house-vic-wollert-145232736,Unchanged
+,"3 Prosecco Street, Wollert",,3,2,1,Inspection tomorrow 5:00 pm,,,https://www.realestate.com.au/property-house-vic-wollert-145232880,Unchanged
+,"13 Prosecco Street, Wollert",,3,2,1,Inspection tomorrow 5:00 pm,,,https://www.realestate.com.au/property-house-vic-wollert-145232172,Unchanged
+,"11 Prosecco Street, Wollert",,3,2,1,Inspection tomorrow 5:00 pm,,,https://www.realestate.com.au/property-house-vic-wollert-145232316,Unchanged
+"$514,900","Address available on request, Kalkallo",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146948992,Unchanged
+"$514,900","Address available on request, Kalkallo",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146948984,Unchanged
+,"12 Carignan Street, Wollert",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-wollert-146942972,Unchanged
+,"18 Nasturium Street, Kalkallo",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146945244,Unchanged
+,"10 Magnesium Road, Kalkallo",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146946412,Unchanged
+,"12 Magnesium Road, Kalkallo",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146946496,Unchanged
+,"8 Tungsten Drive, Kalkallo",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146947036,Unchanged
+,"4 Mulholland Street, Kalkallo",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146945128,Unchanged
+"$621,400","Lot 3211 Awbridge Drive (Kinbrook), Donnybrook",,4,2,2,,354m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146929168,Deleted
+"$587,500","Lot 3207 Awbridge Drive (Kinbrook), Donnybrook",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146929216,Deleted
+"$534,274","Lot 526 Churchill Drive (Balmain), Donnybrook",,3,2,1,,213m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146927468,Deleted
+"$529,990","Lot 2316 Cassia Way (Botanical Estate), Mickleham",,3,3,1,,215m²,,https://www.realestate.com.au/property-house-vic-mickleham-146902764,Deleted
+"$630,000","17 Nyon Walk, Wollert",,4,2,2,,215m²,,https://www.realestate.com.au/property-house-vic-wollert-146665580,Deleted
+,"10  Echelon Road, Doreen",,3,2,1,,330m²,,https://www.realestate.com.au/property-house-vic-doreen-146531084,Unchanged
+"$620,000","21 Times Street, Kalkallo",,3,2,1,,179m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146867756,Unchanged
+"$634,509","Lot 21104  Pulchella Crescent (Katalia Estate), Donnybrook",,3,2,2,,389m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146847524,Unchanged
+$596k if eligible for FHOG - $606k,"1123 Woodlawn Road, Wollert",,4,2,2,,273m²,,https://www.realestate.com.au/property-house-vic-wollert-146873708,Deleted
+"$571,109","Lot 37709 Jump Street (Cloverton Estate), Kalkallo",,3,2,2,,275m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146847728,Deleted
+"$629,800 To $659,800","Lot 476 Frittata Street, Donnybrook",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146870728,Deleted
+"$649,900","16 Nagambie Road, Kalkallo",,3,2,2,,350m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146861628,Unchanged
+"$647,000 To $657,000","Lot 748 Pimsoll Street, Mickleham",,4,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-mickleham-146870752,Deleted
+"$623,900 To $633,900","Lot 747 Pimsoll Street, Mickleham",,3,2,2,,262m²,,https://www.realestate.com.au/property-house-vic-mickleham-146870816,Deleted
+"$595,500 To $625,500","Lot 475 Frittata Street, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146869404,Deleted
+"$580,000 To $590,000","Lot 317 Bango Way, Donnybrook",,4,2,1,,213m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146870712,Deleted
+"$626,720","LOT 32822 Titanium Street, Kalkallo",,4,2,2,,350m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146857220,Deleted
+"$615,000","2/61 Black Braes Boulevard, Mernda",,3,2,1,Inspection Sat 25 Jan 4:30 pm,,,https://www.realestate.com.au/property-house-vic-mernda-146862400,Unchanged
+"$474,900","Lot 323 Donnybrook, Donnybrook",,3,2,1,,213m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146857248,Deleted
+"$649,000 - $679,000","9 Jum Way, Donnybrook",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-146841744,Unchanged
+,"9 Knockturn Road, Kalkallo",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146834092,Unchanged
+"$535,890","604 Churchill Drive, Donnybrook",,3,2,1,,213m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146827432,Deleted
+,"26 Lowline Way, Wollert",,4,2,2,,336m²,,https://www.realestate.com.au/property-house-vic-wollert-146815812,Unchanged
+"$591,490","Lot 747 Plimsoll St, Mickleham",,3,2,2,,262m²,,https://www.realestate.com.au/property-house-vic-mickleham-146818320,Deleted
+"$635,000","21 Calf Street, Donnybrook",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-146812784,Unchanged
+"TITLED LAND $623,000","36 Mulwala Drive, Doreen",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-doreen-146813324,Unchanged
+,"22 Amfissa Street, Wollert",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-wollert-146795036,Unchanged
+"$628,090","Lot 1318 ., Wollert",,3,2,2,,300m²,,https://www.realestate.com.au/property-house-vic-wollert-146791724,Unchanged
+"$612,200 To $632,200","Lot 747 Plimsoll Street, Mickleham",,4,2,2,,262m²,,https://www.realestate.com.au/property-house-vic-mickleham-146788688,Deleted
+"$610,000 To $640,000","Lot 459 Frittata Street, Donnybrook",,4,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146788644,Deleted
+"$546,000 To $576,000","Lot 460  Frittata Street, Donnybrook",,3,2,2,,220m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146788592,Deleted
+"$638,859","Lot 1036 Fuchsia Street, Wollert",,3,2,2,,318m²,,https://www.realestate.com.au/property-house-vic-wollert-146781760,Deleted
+"$625,838","Lot 1318 Castletroy Circuit, Wollert",,3,2,2,,300m²,,https://www.realestate.com.au/property-house-vic-wollert-146781800,Unchanged
+"$587,838","Lot 747 Plimsoll Street, Mickleham",,3,2,2,,262m²,,https://www.realestate.com.au/property-house-vic-mickleham-146781848,Deleted
+"$538,153","Lot 20934 Dome Avenue, Donnybrook",,3,2,1,,350m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146769196,Deleted
+"$630,000","91 Spinebill Close, South Morang",,3,3,1,,,,https://www.realestate.com.au/property-house-vic-south+morang-146761732,Unchanged
+"$630,000","90 Spinebill Close, South Morang",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-south+morang-146761684,Unchanged
+"$630,000","89 Spinebill Close, South Morang",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-south+morang-146761620,Unchanged
+"$630,000","88 Spinebill Close, South Morang",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-south+morang-146761596,Unchanged
+"$621,000","Lot 2733 Fayalite Circuit, Donnybrook",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146760172,Unchanged
+"$564,200","Lot 604 Churchill Drive, Donnybrook",,3,2,1,,213m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146759640,Unchanged
+"$549,300","Lot 523 Kattang Street, Donnybrook",,3,2,2,,221m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146759372,Unchanged
+"TITLED LAND - $631,320","Lot 219 Pitchstone Circuit, Epping",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-epping-146750488,Unchanged
+"$630,000 - $660,000","28 Sandon Crescent, Donnybrook",,4,2,2,Inspection tomorrow 5:30 pm,,,https://www.realestate.com.au/property-house-vic-donnybrook-146729556,Unchanged
+"$585,990","636 ., Donnybrook",,4,2,1,,225m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146714712,Unchanged
+"$515,990","648 ., Donnybrook",,4,2,2,,204m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146714708,Unchanged
+"H&L Packages From $570,000","Address available on request, Wollert",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-wollert-146708268,Unchanged
+"$638,700","Address available on request, Greenvale",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-greenvale-146705652,Unchanged
+"$622,750","Address available on request, Wollert",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-wollert-146705640,Unchanged
+"$580,000","68 Everlasting Boulevard, South Morang",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-south+morang-146696700,Unchanged
+"$570,000 - $600,000","13 Troidini Entrance, Mickleham",,3,2,1,Inspection tomorrow 5:30 pm,212m²,,https://www.realestate.com.au/property-house-vic-mickleham-146683068,Unchanged
+,"11 Middlemount Street, Donnybrook",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-141833588,Unchanged
+,"11 Humboldt Street, Kalkallo",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-146643768,Unchanged
+"$514,900","36745 Mulholland Street, Kalkallo",,3,2,1,,221m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146637540,Deleted
+"$514,900","36744 Mulholland Street, Kalkallo",,3,2,1,,221m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146637300,Deleted
+"$569,250","Address available on request, Wollert",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-wollert-146627148,Unchanged
+,"10 Clarendon Avenue, Craigieburn",,3,2,1,Inspection Sat 25 Jan 1:00 pm,,,https://www.realestate.com.au/property-house-vic-craigieburn-146623964,Unchanged
+"$589,900","5 Mulholland St, Kalkallo",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-kalkallo-146609752,Deleted
+,"15 Bracegirdle Drive, Mickleham",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-146591056,Unchanged
+,"11 Bracegirdle Drive, Mickleham",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-146591320,Unchanged
+,"21 Mitford Crescent, Craigieburn",,4,2,1,Inspection Sat 25 Jan 11:00 am,,,https://www.realestate.com.au/property-house-vic-craigieburn-145994944,Unchanged
+"$632,900","Lot 213 at Aticuss Estate, Woodstock",,4,2,2,,350m²,,https://www.realestate.com.au/property-house-vic-woodstock-146531404,Deleted
+"From $540,000","Address available on request, Donnybrook",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-donnybrook-146495768,Unchanged
+"$546,000 — $566,000","3 Rialto Circuit, Craigieburn",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-craigieburn-146480240,Unchanged
+"TITLED LAND - $642,500","Lot 34 Yellow Brick Road, Doreen",,4,2,2,,331m²,,https://www.realestate.com.au/property-house-vic-doreen-146403372,Unchanged
+"$605,500","Address available on request, Wollert",,3,2,2,,275m²,,https://www.realestate.com.au/property-house-vic-wollert-146372996,Unchanged
+"$524,400","Address available on request, Wollert",,3,2,1,,179m²,,https://www.realestate.com.au/property-house-vic-wollert-146372948,Unchanged
+"$539,000","162 Clongower Street, Woodstock",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-woodstock-146354432,Unchanged
+"$599,900","24 Langridge Way, Mickleham",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-mickleham-146346084,Deleted
+"$599,990","Address available on request, Donnybrook",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-146307724,Unchanged
+"$560,000","10 Zataar Street, Mickleham",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-mickleham-146277444,Unchanged
+"$599,900","26 Langridge Way, Mickleham",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-mickleham-146262156,Deleted
+"$599,900","21  Huntingtower Avenue, Mickleham",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-mickleham-146262396,Deleted
+"$650,000 - $675,000","62 River Redgum Boulevard, Donnybrook",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-146252524,Unchanged
+"$640,000 - $680,000","32 Samolus Street, Mickleham",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-146241552,Unchanged
+"$627,350","No. 401 Mylius Street, Wollert",,3,2,2,,238m²,,https://www.realestate.com.au/property-house-vic-wollert-146006592,Unchanged
+"$634,350","No. 404 Mylius Street, Wollert",,3,2,2,,302m²,,https://www.realestate.com.au/property-house-vic-wollert-146006056,Unchanged
+"$629,900","8 Lynnwood Drive, Mickleham",,3,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-mickleham-145998372,Deleted
+"$599,900","25 Huntingtower Ave, Mickleham",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-mickleham-146000436,Deleted
+"$540,000","11 Ferguson Walk, Mickleham",,3,2,2,,168m²,,https://www.realestate.com.au/property-house-vic-mickleham-145937936,Deleted
+"$580,000 -$610,000","Lot 313 Bracegirdle Drive, Mickleham",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-mickleham-145872004,Deleted
+"$640,000 - $680,000","30 Samolus Street, Mickleham",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-145847908,Unchanged
+"$580,000 to $610,000","4 Bracegirdle Drive, Mickleham",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-145848572,Unchanged
+"$599,000 - $619,000","38  Deltora Road, Wollert",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-wollert-145841764,Unchanged
+"$560,000 - $600,000","7 Portswood Drive, Donnybrook",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-donnybrook-145831648,Unchanged
+"$560,000 - $600,00","9 Portswood Drive, Donnybrook",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-donnybrook-145831832,Unchanged
+"$600,000","Address available on request, Mickleham",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-mickleham-145815072,Unchanged
+"$570,200 - Fixed Price & Full Turnkey Inclusions","Address available on request, Donnybrook",,3,2,1,,179m²,,https://www.realestate.com.au/property-house-vic-donnybrook-145759136,Unchanged
+"$509,846","147 Elana Place, Epping",,3,2,1,,191m²,,https://www.realestate.com.au/property-house-vic-epping-145740480,Unchanged
+"$624,900","23 Huntingtower Avenue, Mickleham",,3,2,2,,221m²,,https://www.realestate.com.au/property-house-vic-mickleham-145745296,Deleted
+"$619,900","15 Belson Street., Mickleham",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-mickleham-145744756,Deleted
+"$536,000","Lot 636 Millbrook Way, Woodstock",,3,2,1,,225m²,,https://www.realestate.com.au/property-house-vic-woodstock-145731312,Unchanged
+"$499,000 - $510,000","54 Boomerang Road, Donnybrook",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-donnybrook-145620496,Deleted
+"$650,000 - $680,000","18 Sandon Crescent, Donnybrook",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-donnybrook-145573280,Unchanged
+Taking offer 630K-660K,"11 Swanmore Road, Donnybrook",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-145534968,Unchanged
+"$650,000 - $700,000","10  Herridge Street, Mickleham",,4,2,4,,,,https://www.realestate.com.au/property-house-vic-mickleham-145158276,Deleted
+,"Address available on request, Mickleham",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-mickleham-145489376,Unchanged
+"$549,700","526 New Street, Donnybrook",,3,2,1,,196m²,,https://www.realestate.com.au/property-house-vic-donnybrook-145447100,Unchanged
+"$625,000 - $640,000","11 Knockturn Road, Kalkallo",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-145444212,Unchanged
+"$580,000 to $610,000","3 Mulholland Street, Kalkallo",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-145443124,Unchanged
+"$558,800 - Fixed Price & Full Turnkey Inclusions","615 Churchill Drive, Donnybrook",,3,2,1,,179m²,,https://www.realestate.com.au/property-house-vic-donnybrook-145307092,Unchanged
+"$600,000 to $625,000","6A Richards Street, Lalor",,3,2,2,Inspection Sat 25 Jan 1:00 pm,,,https://www.realestate.com.au/property-house-vic-lalor-144937772,Unchanged
+"$540,000 - $580,000","17 Olivetree Loop, Craigieburn",,3,2,2,Inspection tomorrow 6:00 pm,,,https://www.realestate.com.au/property-house-vic-craigieburn-145145136,Unchanged
+"$650,000 $669,000","Address available on request, Donnybrook",,4,2,1,,318m²,,https://www.realestate.com.au/property-house-vic-donnybrook-145122488,Unchanged
+"$510,000 - $530,000","79 Regatta Drive, Craigieburn",,3,3,2,,167m²,,https://www.realestate.com.au/property-house-vic-craigieburn-144963024,Deleted
+,"43 Alloca Crescent, Donnybrook",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-donnybrook-144939456,Unchanged
+,"3 Times Street, Kalkallo",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-144820996,Unchanged
+,"31 Arlington Park Drive, Mickleham",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-mickleham-144749840,Unchanged
+"$650,000 - $670,000","Address available on request, Donnybrook",,4,2,1,,,,https://www.realestate.com.au/property-house-vic-donnybrook-144689980,Unchanged
+"$555,000 - $575,000","10 Quiney Walk, Wollert",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-wollert-144629888,Deleted
+$599K Turnkey H&L,"41138 Lot 41138 Powderbank Cresent, Mickleham",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-mickleham-144588308,Unchanged
+"$553,600 Full Turnkey Inclusions","Lot 523 Kattang Street, Donnybrook",,3,2,1,,179m²,,https://www.realestate.com.au/property-house-vic-donnybrook-144416660,Unchanged
+,"17 Washington Street, Dallas",,4,2,2,,615m²,,https://www.realestate.com.au/property-house-vic-dallas-144148932,Deleted
+,"Address available on request, Kalkallo",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-143187728,Unchanged
+,"Address available on request, Wollert",,3,2,2,,,,https://www.realestate.com.au/property-house-vic-wollert-142435056,Unchanged
+"$565,855","109 Gamon Street, Mickleham",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-mickleham-141454636,Unchanged
+"$579,800 Full Turnkey Inclusions","Lot 20212 Bovine Crescent, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-141036064,Unchanged
+,"45 Turion Drive, Mickleham",,3,2,1,,,,https://www.realestate.com.au/property-house-vic-mickleham-139648851,Unchanged
+,"32  Cochrane Avenue, Mickleham",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-mickleham-135404418,Unchanged
+PRIVATE SALE | $500K-$550K,"23A Housden Street, Broadmeadows",,3,2,1,Inspection tomorrow 10:45 am,,Marco Sansoe,https://www.realestate.com.au/property-house-vic-broadmeadows-147056648,New
+,"14 Tripani Avenue, Lalor",,3,2,1,Inspection Thu 27 Feb 5:15 pm,,Ryan Di Natale,https://www.realestate.com.au/property-house-vic-lalor-147192384,New
+,"49 Tucholsky Drive, Kalkallo",,4,2,2,Inspection Thu 13 Feb 5:00 pm,,Anwar Kattan,https://www.realestate.com.au/property-house-vic-kalkallo-147188532,New
+,"22 Cockatoo Close, South Morang",,3,2,2,Inspection tomorrow 1:00 pm,,Justin Sciola,https://www.realestate.com.au/property-house-vic-south+morang-147055460,New
+"$490,000 - $530,000","46 Merlin Street, Craigieburn",,3,2,1,,,Alex Melnychuk,https://www.realestate.com.au/property-house-vic-craigieburn-147190264,New
+,"12 Playles Way, Wollert",,4,2,2,,,Param Singh,https://www.realestate.com.au/property-house-vic-wollert-147188704,New
+"$560,000 - $615,000","12 Susan Court, Campbellfield",,3,2,2,Inspection Tue 11 Feb 6:00 pm,612m²,Jayden Manno,https://www.realestate.com.au/property-house-vic-campbellfield-147187084,New
+"MUST SELL $599,000 $659,000","5 Inkerman Crescent, Mickleham",,4,2,2,Inspection tomorrow 1:45 pm,448m²,Sharpy Batth,https://www.realestate.com.au/property-house-vic-mickleham-142976040,New
+,"85 Rulingia Road, Donnybrook",,3,2,1,Inspection tomorrow 12:30 pm,,Rashna Luitel,https://www.realestate.com.au/property-house-vic-donnybrook-147186788,New
+Auction | $560k - $590k,"2/25 Birch Avenue, Tullamarine",,3,2,1,Inspection tomorrow 12:00 pm,,Phillip Mercieca,https://www.realestate.com.au/property-house-vic-tullamarine-147186580,New
+"$599,139","Lot 21207 Basalt Street (Katalia Estate), Donnybrook",,3,2,2,,313m²,Craig Payne,https://www.realestate.com.au/property-house-vic-donnybrook-147185648,New
+,"109 Golf View Drive, Craigieburn",,4,2,1,Inspection tomorrow 1:30 pm,,Ricky Singh,https://www.realestate.com.au/property-house-vic-craigieburn-147046448,New
+,"184 Grevillea Street, Craigieburn",,4,2,2,Inspection tomorrow 11:00 am,,Mohammad Kardigar,https://www.realestate.com.au/property-house-vic-craigieburn-147184336,New
+"ESR: $635,000 - $660,000","5 Thurles Street, Woodstock",,4,3,2,Inspection tomorrow 12:00 pm,294m²,Sachin Toor,https://www.realestate.com.au/property-house-vic-woodstock-147183876,New
+,"1/86 Daley Street, Glenroy",,3,2,2,Inspection tomorrow 2:00 pm,,Dave Singh,https://www.realestate.com.au/property-house-vic-glenroy-147181820,New
+,"36 Monakeeba Boulevard, Donnybrook",,4,2,2,,,Dave Singh,https://www.realestate.com.au/property-house-vic-donnybrook-147180680,New
+"ESR $620,000 - $650,000","29 Petersfield Way, Donnybrook",,4,2,2,Inspection tomorrow 11:15 am,,Sunny Singh,https://www.realestate.com.au/property-house-vic-donnybrook-147180144,New
+"$650,000 - $695,000","21 Hemsworth Street, Donnybrook",,4,2,2,Inspection tomorrow 9:30 am,392m²,Matthew Zagami,https://www.realestate.com.au/property-house-vic-donnybrook-147179704,New
+"ESR: $650,000 - $700,000","5 Lauradan Way, Wollert",,4,2,2,Inspection tomorrow 3:00 pm,,Luke El Moussalli,https://www.realestate.com.au/property-house-vic-wollert-147179568,New
+,"36 Monakeeba Boulevard, Woodstock",,4,2,2,,,Dave Singh,https://www.realestate.com.au/property-house-vic-woodstock-147178764,New
+"$460,000 - $490,000","19/38 Mallard Circuit, Craigieburn",,4,2,2,,,Vito Trentadue,https://www.realestate.com.au/property-house-vic-craigieburn-147173560,New
+"$550,000 - $595,000","8 Mittagong Rise, Craigieburn",,3,2,2,Inspection tomorrow 2:45 pm,313m²,Adriano Persichetti,https://www.realestate.com.au/property-house-vic-craigieburn-147172704,New
+$551k if eligible for FHOG - $561k,"1010 Rainbow Street, Wollert",,3,2,2,,274m²,Stefan Gigovic,https://www.realestate.com.au/property-house-vic-wollert-147171244,New
+,"41 Landover Road, Wollert",,4,2,2,Inspection tomorrow 12:00 pm,,Admon Paules,https://www.realestate.com.au/property-house-vic-wollert-147171264,New
+$560k if eligible for FHOG - $570k,"462  Frittata Street, Donnybrook",,3,2,2,,263m²,John Tran,https://www.realestate.com.au/property-house-vic-donnybrook-147171076,New
+,"4 Iceberg Drive, Mernda",,3,2,2,Inspection tomorrow 1:30 pm,,Sherry Singh,https://www.realestate.com.au/property-house-vic-mernda-147156748,New
+"$630,000 - $660,000","46 Rochford Drive, Donnybrook",,4,2,2,Inspection tomorrow 10:30 am,,Bilal Khan,https://www.realestate.com.au/property-house-vic-donnybrook-146702152,New
+"$650,000 - $700,000","10 Hanley Street, Mernda",,4,2,2,Inspection Thu 13 Feb 5:00 pm,302m²,John Metaxas,https://www.realestate.com.au/property-house-vic-mernda-147166760,New
+"ESR: $645,000 - $695,000","1 Rialton Rise, South Morang",,3,2,2,Inspection tomorrow 12:00 pm,314m²,Ashlee Jade,https://www.realestate.com.au/property-house-vic-south+morang-147166680,New
+"$580,000 - $620,000","53 Waterwheel Grove, Mernda",,4,2,1,Inspection tomorrow 10:30 am,,Anthony Alagona,https://www.realestate.com.au/property-house-vic-mernda-147166104,New
+,"54 Rossiter Avenue, Roxburgh Park",,3,2,2,Inspection tomorrow 11:45 am,542m²,Katrin Danial,https://www.realestate.com.au/property-house-vic-roxburgh+park-147162268,New
+"$645,000 - $675,000","3 Langdon Crescent, Craigieburn",,3,2,2,Inspection tomorrow 8:30 am,,Jamie Fan,https://www.realestate.com.au/property-house-vic-craigieburn-147160144,New
+,"3 Lion Chase, Craigieburn",,4,2,2,Inspection tomorrow 11:00 am,350m²,Lucky Verma,https://www.realestate.com.au/property-house-vic-craigieburn-147159684,New
+"PRICE GUIDE $450,000 - $495,000","2/8 Ortolan Avenue, Broadmeadows",,3,2,1,Inspection tomorrow 11:30 am,141m²,Andrew Forehan,https://www.realestate.com.au/property-house-vic-broadmeadows-147159488,New
+BRAND NEW | 2 MASTERS | 6M CEILING AT ENTRANCE,"38 Caspian Drive, Craigieburn",,4,3,2,Inspection tomorrow 2:15 pm,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-craigieburn-147158648,New
+"$650,000 - $715,000","23 Severn Street, Epping",,4,2,4,Inspection Wed 12 Feb 7:15 pm,562m²,Isaak Warburton,https://www.realestate.com.au/property-house-vic-epping-147158404,New
+"$630,000 - $680,000","35 Sandover Drive, Roxburgh Park",,4,2,1,Inspection tomorrow 12:00 pm,484m²,Elia Kakos,https://www.realestate.com.au/property-house-vic-roxburgh+park-147157356,New
+"$650,000 - $670,000","34 Davis Circuit, Wollert",,4,2,2,Inspection tomorrow 11:00 am,,Amreen Singh,https://www.realestate.com.au/property-house-vic-wollert-147024000,New
+"$600,000 - $660,000","31 Balerno Circle, Gowanbrae",,3,2,2,Inspection tomorrow 10:00 am,,Anthony Elliott,https://www.realestate.com.au/property-house-vic-gowanbrae-147156352,New
+"$610,000-$640,000","5 Monarch Avenue, Mernda",,3,2,2,Inspection tomorrow 10:00 am,402m²,Nash Uddin,https://www.realestate.com.au/property-house-vic-mernda-147155860,New
+,"15 Mumm Street, Wollert",,4,2,2,Inspection tomorrow 2:45 pm,350m²,Lem Djemal,https://www.realestate.com.au/property-house-vic-wollert-147152696,New
+"$640,000 - $690,000","10 Verdant Drive, Donnybrook",,3,2,2,Inspection tomorrow 9:30 am,448m²,Paul Chwyla,https://www.realestate.com.au/property-house-vic-donnybrook-147152064,New
+"ESR: $650,000 TO $680,000","19 Valais Street, Wollert",,4,2,2,Inspection tomorrow 11:00 am,200m²,Chirag Yadav,https://www.realestate.com.au/property-house-vic-wollert-147149388,New
+"$540,000 - $580,000","13 Ivory Road, Donnybrook",,4,2,2,Inspection tomorrow 1:45 pm,,Vijay Kumar,https://www.realestate.com.au/property-house-vic-donnybrook-147147868,New
+"Auction - $599,000 -$649,000","25 Sumar Drive, Craigieburn",,3,2,2,Inspection Tue 11 Feb 6:00 pm,292m²,Alex Doguluer,https://www.realestate.com.au/property-house-vic-craigieburn-147147024,New
+,"22 Cardigan Street, Donnybrook",,3,2,2,Inspection tomorrow 1:15 pm,350m²,Sunil Gandham,https://www.realestate.com.au/property-house-vic-donnybrook-147144532,New
+"$649,000","6 Litoria Way, Kalkallo",,3,2,2,Inspection tomorrow 10:00 am,350m²,Damien Crivelli,https://www.realestate.com.au/property-house-vic-kalkallo-147141312,New
+"$650,000-$680,000","18 Goodia Street, Wollert",,4,2,2,Inspection tomorrow 1:00 pm,312m²,Matilda Fyfe,https://www.realestate.com.au/property-house-vic-wollert-147141260,New
+"$600,000 - $650,000","17 Garonne Circuit, Roxburgh Park",,4,2,1,Inspection tomorrow 12:15 pm,416m²,Mohammed Mahfouz,https://www.realestate.com.au/property-house-vic-roxburgh+park-147139832,New
+"$585,000-$615,000","153  Everard Road, Mernda",,3,2,1,Inspection tomorrow 12:30 pm,,Sugath Warnasuriya,https://www.realestate.com.au/property-house-vic-mernda-147134984,New
+$25k OFF LIMITED TIME ONLY,"15 Nasturium Street, Kalkallo",,3,2,2,Inspection tomorrow 12:00 pm,294m²,Justin Nunn,https://www.realestate.com.au/property-house-vic-kalkallo-147097284,New
+"Auction | $599,000 - $640,000","23 Bolwarra Street, Craigieburn",,4,2,2,Inspection tomorrow 1:40 pm,392m²,Alexander Sherriff,https://www.realestate.com.au/property-house-vic-craigieburn-147133588,New
+"PRIVATE SALE | $610,000-$650,000","45 LIMPOPA Square, Roxburgh Park",,3,2,2,Inspection tomorrow 11:50 am,421m²,Ali Faour,https://www.realestate.com.au/property-house-vic-roxburgh+park-147133580,New
+"$520,000 - $550,000","98 Antares Parade, Kalkallo",,3,2,2,Inspection tomorrow 10:00 am,,Adrian Prestileo,https://www.realestate.com.au/property-house-vic-kalkallo-147133556,New
+"$570,000 - $610,000","13 Twist Walk, Doreen",,3,2,2,Inspection tomorrow 10:30 am,221m²,Stacy Richards,https://www.realestate.com.au/property-house-vic-doreen-147133032,New
+"$600,000 - $660,000","16 Albida Street, Donnybrook",,4,2,2,Inspection tomorrow 10:00 am,313m²,Sahil Jugran,https://www.realestate.com.au/property-house-vic-donnybrook-146783408,New
+"ESR $620,000 to $660,000","30 Riesling Street, Wollert",,4,2,2,Inspection tomorrow 2:00 pm,,Mandeep Sekhon,https://www.realestate.com.au/property-house-vic-wollert-146863192,New
+"$500,000 - $550,000","12 Loudon Circuit, Craigieburn",,3,2,1,Inspection tomorrow 11:50 am,,Omar Morsi,https://www.realestate.com.au/property-house-vic-craigieburn-147130032,New
+"$714,000 to $785,000 Fully Upgraded House","22 Argon Street, Kalkallo",,4,2,2,Inspection tomorrow 10:00 am,392m²,Lucky Verma,https://www.realestate.com.au/property-house-vic-kalkallo-146857620,New
+"$540,000 - $580,000","27 Telopea Road, Craigieburn",,3,2,1,Inspection tomorrow 2:00 pm,,Inas Sora,https://www.realestate.com.au/property-house-vic-craigieburn-147127068,New
+,"14 Creeds Farm Lane, Epping",,3,2,2,Inspection tomorrow 11:30 am,,Ilia Menkinoski,https://www.realestate.com.au/property-house-vic-epping-147126344,New
+,"30 Rungrado View, Wollert",,4,2,2,Inspection tomorrow 10:00 am,350m²,Sherry Singh,https://www.realestate.com.au/property-house-vic-wollert-147126008,New
+"AUCTION  $550,000 - $605,000","30 Riordan Crescent, Mernda",,3,2,1,Inspection tomorrow 2:00 pm,312m²,Rob Stefanovski,https://www.realestate.com.au/property-house-vic-mernda-147125996,New
+,"13 Vautier Place, South Morang",,3,2,2,Inspection tomorrow 11:00 am,,Daniel Taylor,https://www.realestate.com.au/property-house-vic-south+morang-147125264,New
+"$530,000 - $560,000","17 Powell Street, Craigieburn",,3,2,1,Inspection tomorrow 2:00 pm,,Trish Orrico,https://www.realestate.com.au/property-house-vic-craigieburn-147125696,New
+,"11 Midholm Court, Thomastown",,5,3,3,Inspection tomorrow 11:30 am,,Christine Constantinou,https://www.realestate.com.au/property-house-vic-thomastown-147125248,New
+"$550,000 - $605,000","24 Lascelles Drive, Lalor",,4,2,2,Inspection tomorrow 3:15 pm,,Hayden Assaad,https://www.realestate.com.au/property-house-vic-lalor-147125088,New
+"$580,000 - $635,000","96 Allumba Way, Wollert",,3,2,2,Inspection tomorrow 3:30 pm,420m²,Michael Assaad,https://www.realestate.com.au/property-house-vic-wollert-147125072,New
+"AUCTION $610,000 - $671,000","5 Butternut Street, Wollert",,4,2,2,Inspection tomorrow 11:00 am,312m²,Joel Viavattene,https://www.realestate.com.au/property-house-vic-wollert-147124924,New
+,"28 Stilt Street, Kalkallo",,4,2,2,Inspection tomorrow 11:00 am,,Gaurika Kohli,https://www.realestate.com.au/property-house-vic-kalkallo-147124376,New
+"On Site Auction: $500,000 - $550,000","22 Prime Street, Mickleham",,3,2,3,Inspection tomorrow 10:00 am,,Frankie Azzopardi,https://www.realestate.com.au/property-house-vic-mickleham-147124272,New
+"$650,000 - $695,000","31 Koeks Vista, Kalkallo",,4,2,2,Inspection tomorrow 12:45 pm,392m²,Robin Dhalla,https://www.realestate.com.au/property-house-vic-kalkallo-147123972,New
+"$500,000 - $530,000","31 Jacka Street, Mickleham",,3,2,2,Inspection tomorrow 11:00 am,,Adrian Prestileo,https://www.realestate.com.au/property-house-vic-mickleham-147119932,New
+,"20 Prime Street, Mickleham",,4,2,2,Inspection tomorrow 1:00 pm,,Abdul Sleman,https://www.realestate.com.au/property-house-vic-mickleham-147114168,New
+"$640,000 - $660,000","13 Willaroy Boulevard, Donnybrook",,4,2,2,Inspection tomorrow 3:00 pm,350m²,Farai Katiyo,https://www.realestate.com.au/property-house-vic-donnybrook-147112288,New
+"$610,000 - $640,000","8 Black Wattle Road, Craigieburn",,4,2,2,Inspection tomorrow 12:00 pm,350m²,Lovepreet Dhindsa,https://www.realestate.com.au/property-house-vic-craigieburn-147110452,New
+,"15 Greenwood Road, Donnybrook",,3,2,1,Inspection tomorrow 11:00 am,,Abdul Sleman,https://www.realestate.com.au/property-house-vic-donnybrook-147108500,New
+"AUCTION $635,000 - $685,000","2  Gathray Court, Roxburgh Park",,3,2,8,Inspection tomorrow 4:00 pm,630m²,Alex Doguluer,https://www.realestate.com.au/property-house-vic-roxburgh+park-147105984,New
+AUCTION | $510K-$560K,"13 Simpson Court, Meadow Heights",,3,2,1,Inspection tomorrow 12:15 pm,416m²,Gulsum Okur,https://www.realestate.com.au/property-house-vic-meadow+heights-147102280,New
+,"4 Streamside Drive, Craigieburn",,4,2,2,Inspection tomorrow 12:30 pm,,Moe Al-mnahi,https://www.realestate.com.au/property-house-vic-craigieburn-147101528,New
+"$630,000 - $670,000","12 Alfred Road, Mickleham",,4,2,2,Inspection tomorrow 2:00 pm,350m²,Ameerul Zulfikar,https://www.realestate.com.au/property-house-vic-mickleham-147101416,New
+"$519,000 - $569,000","16 Cochrane Avenue, Mickleham",,3,2,2,Inspection tomorrow 2:45 pm,,Romi Sleiman,https://www.realestate.com.au/property-house-vic-mickleham-147097336,New
+"$580,000 - $630,000","16 Burniston Avenue, Craigieburn",,3,2,2,Inspection tomorrow 1:15 pm,615m²,Romi Sleiman,https://www.realestate.com.au/property-house-vic-craigieburn-147096924,New
+,"10 Arum Walk, Mernda",,3,2,2,Inspection tomorrow 11:00 am,385m²,Ashlee Jade,https://www.realestate.com.au/property-house-vic-mernda-147095128,New
+"ESR: $580,000 - $620,000","572 Findon Road, South Morang",,3,2,2,Inspection tomorrow 12:00 pm,213m²,Hayley Margetts,https://www.realestate.com.au/property-house-vic-south+morang-147094452,New
+,"68 Arena Avenue, Roxburgh Park",,4,3,2,Inspection tomorrow 1:00 pm,,Evan Yousif,https://www.realestate.com.au/property-house-vic-roxburgh+park-133619590,New
+,"13 Isparta Mews, Roxburgh Park",,3,2,2,Inspection tomorrow 11:00 am,,Katrin Danial,https://www.realestate.com.au/property-house-vic-roxburgh+park-147093348,New
+"$580,000 - $620,000","38 Lincolne Crescent, Roxburgh Park",,3,2,2,Inspection tomorrow 12:30 pm,548m²,Usman Maan,https://www.realestate.com.au/property-house-vic-roxburgh+park-147089004,New
+AUCTION | $640K-$680K,"12 Bicknell Court, Broadmeadows",,4,2,2,Inspection tomorrow 10:45 am,,Richard Ali,https://www.realestate.com.au/property-house-vic-broadmeadows-147085776,New
+"AUCTION $620,00 - $690,000","10 Blackcurrant Circuit, Mernda",,3,2,2,Inspection tomorrow 10:00 am,,Leon Phillips,https://www.realestate.com.au/property-house-vic-mernda-147084916,New
+"$565,000-$615,000","9 Eastern View, Doreen",,3,2,2,Inspection tomorrow 12:30 pm,256m²,Rayni Jerram,https://www.realestate.com.au/property-house-vic-doreen-147084800,New
+"$589,607","Lot 3215 Foreshores Drive (Peppercorn Hill Estate), Donnybrook",,3,2,2,,313m²,Craig Payne,https://www.realestate.com.au/property-house-vic-donnybrook-147082168,New
+"$600,000 - $650,000","14 Bovine Crescent, Donnybrook",,4,2,2,Inspection tomorrow 2:00 pm,,Noor Kaur,https://www.realestate.com.au/property-house-vic-donnybrook-147081252,New
+,"11 Tusmore Rise, Craigieburn",,3,2,2,Inspection tomorrow 11:45 am,400m²,Michael Cananzi,https://www.realestate.com.au/property-house-vic-craigieburn-147081164,New
+"$600,000 - $660,000","26 Rotino Crescent, Lalor",,3,2,2,Inspection tomorrow 2:00 pm,320m²,Javit Denizhan,https://www.realestate.com.au/property-house-vic-lalor-147079960,New
+"$560,000 - $595,000","14 Sudbury Street, Mickleham",,3,2,1,Inspection tomorrow 11:15 am,,Mazen Enwia,https://www.realestate.com.au/property-house-vic-mickleham-147079756,New
+"$620,000 - $680,000","7 Mantle Street, Wollert",,4,2,2,Inspection tomorrow 2:15 pm,,Hayden Assaad,https://www.realestate.com.au/property-house-vic-wollert-147079376,New
+"$650,000 - $690,000","8 Riverbark Way, Greenvale",,4,2,2,Inspection tomorrow 10:00 am,400m²,Steph Shepherdson,https://www.realestate.com.au/property-house-vic-greenvale-147079276,New
+"$620,000 - $650,000","27 Chelsworth Loop, Craigieburn",,4,2,2,Inspection tomorrow 1:00 pm,,Trish Orrico,https://www.realestate.com.au/property-house-vic-craigieburn-147078544,New
+"$600,000 to $660,000","3 Patch Road, Donnybrook",,4,2,2,Inspection tomorrow 12:00 pm,312m²,Anthony D'Ambros,https://www.realestate.com.au/property-house-vic-donnybrook-146957500,New
+"570,000 - 599,000","44 Winterfell Road, Donnybrook",,3,2,1,Inspection tomorrow 1:45 pm,,Mohit Jain,https://www.realestate.com.au/property-house-vic-donnybrook-147077580,New
+"$599,000-$650,000","12 Callantina Road, Mickleham",,3,2,2,Inspection tomorrow 11:00 am,,Gavy Khangura,https://www.realestate.com.au/property-house-vic-mickleham-147077084,New
+"Auction | $550,000 - $580,000","56 Marathon Boulevard, Craigieburn",,3,2,1,Inspection tomorrow 2:30 pm,383m²,Michael Sassine,https://www.realestate.com.au/property-house-vic-craigieburn-147075504,New
+"$580,000 - $620,000","8 Mietta Terrace, Greenvale",,3,2,1,Inspection tomorrow 10:00 am,,Vito Trentadue,https://www.realestate.com.au/property-house-vic-greenvale-147074080,New
+,"5 Melaleuca Drive, Meadow Heights",,3,2,2,,563m²,Amin Halabi,https://www.realestate.com.au/property-house-vic-meadow+heights-147072992,New
+,"39 Ironwood Road, Mickleham",,4,2,1,Inspection tomorrow 12:00 pm,,Ola Alsalemy,https://www.realestate.com.au/property-house-vic-mickleham-147072360,New
+,"43 Kosciuszko Drive, Craigieburn",,4,2,2,,,Noora Duqman,https://www.realestate.com.au/property-house-vic-craigieburn-146592948,New
+"$570,000 - $620,000","12 Wattletree Street, Craigieburn",,3,2,1,Inspection tomorrow 11:00 am,370m²,Vic Spano Junior,https://www.realestate.com.au/property-house-vic-craigieburn-147070748,New
+,"17 Pine Park Dr, Wollert",,3,2,2,Inspection tomorrow 2:00 pm,380m²,Prateek Chaudhary,https://www.realestate.com.au/property-house-vic-wollert-147069772,New
+"$640,000 - $690,000","78 Spring Street, Thomastown",,3,2,4,Inspection tomorrow 11:15 am,535m²,John Pasceri,https://www.realestate.com.au/property-house-vic-thomastown-147068928,New
+"$640,000 - $695,000","1 Wistow Chase, Wollert",,3,2,2,Inspection tomorrow 11:15 am,401m²,Ben Pellicori,https://www.realestate.com.au/property-house-vic-wollert-147067952,New
+"$590,000 - $640,000","41 Ravine Drive, Wollert",,4,2,2,Inspection tomorrow 1:30 pm,,Love Sharma,https://www.realestate.com.au/property-house-vic-wollert-147065596,New
+"$650,000 - $700,000","19 Saltlake Boulevard, Wollert",,3,2,2,Inspection tomorrow 10:00 am,448m²,Mike Assaad,https://www.realestate.com.au/property-house-vic-wollert-147064932,New
+$620k -  $650k,"82 Bovine Crescent, Donnybrook",,4,2,1,Inspection tomorrow 1:30 pm,,Ali Celik,https://www.realestate.com.au/property-house-vic-donnybrook-147060556,New
+,"56 Coronet Avenue, Roxburgh Park",,3,2,2,Inspection tomorrow 3:30 pm,233m²,Mario Tucci,https://www.realestate.com.au/property-house-vic-roxburgh+park-147053536,New
+,"11 Stilt Street, Kalkallo",,4,3,2,Inspection tomorrow 11:30 am,,Abeer Al-hatab,https://www.realestate.com.au/property-house-vic-kalkallo-147058184,New
+,"6 Teagreen Street, Wollert",,4,2,2,Inspection tomorrow 12:45 pm,,Ryan Gaire,https://www.realestate.com.au/property-house-vic-wollert-147058168,New
+,"21 Jasmine Court, Meadow Heights",,4,2,2,Inspection tomorrow 12:00 pm,,,https://www.realestate.com.au/property-house-vic-meadow+heights-147174932,New
+"$646,689 - 100% fixed price guaranteed!","Lot 2220 Borage Street  (Botanical), Mickleham",,3,2,2,,299m²,,https://www.realestate.com.au/property-house-vic-mickleham-147163252,New
+"$545,600 To $565,600","Lot 23 Buangor Avenue, Wollert",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-wollert-147158104,New
+"$595,480","23 Buangor Avenue (Full Turnkey Package), Wollert",,4,2,2,,18.62m²,,https://www.realestate.com.au/property-house-vic-wollert-147149964,New
+"$634,200","Lot 33627 Arcturus Drive (Cloverton), Kalkallo",,4,2,2,,350m²,,https://www.realestate.com.au/property-house-vic-kalkallo-147083628,New
+"$606,856","Lot 3213 Foreshores Drive, Donnybrook",,3,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147082684,New
+"$585,000 5% DEPOSIT ONLY, ONE CONTRACT","58 Mylius Street, Wollert",,3,2,2,,118.54m²,,https://www.realestate.com.au/property-house-vic-wollert-147071168,New
+"$539,990","Lot 364 Tara Circuit, Donnybrook",,3,2,1,,13m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147065864,New
+"$543,171","Lot 373 Robert Street, Donnybrook",,3,2,1,,13m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147065888,New
+,"47 Tucholsky Drive, Kalkallo",,4,2,2,Inspection tomorrow 1:45 pm,,,https://www.realestate.com.au/property-house-vic-kalkallo-147062816,New
+,"12 Mulholland Street, Kalkallo",,3,2,1,Inspection tomorrow 1:00 pm,,,https://www.realestate.com.au/property-house-vic-kalkallo-147062568,New
+"$557,090","Lot 21237 Basalt Street, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147052988,New
+"$621,590","Lot 21160 Rulingia Road, Donnybrook",,3,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147052968,New
+"$636,000","Lot 1017 Brandon Road, Greenvale",,3,2,2,,252m²,,https://www.realestate.com.au/property-house-vic-greenvale-147184372,New
+"$626,300","Lot 1016 Brendon Road, Greenvale",,3,2,1,,261m²,,https://www.realestate.com.au/property-house-vic-greenvale-147184364,New
+"$582,400","Lot 711 Swilk Crescent, Mickleham",,3,2,2,,288m²,,https://www.realestate.com.au/property-house-vic-mickleham-147184344,New
+$577k if eligible for FHOG - $587k,"2 Mulwala Drive, Doreen",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-doreen-147172604,New
+"$643,950","LOT 21191 KATALIA ESTATE, Donnybrook",,4,2,2,,350m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147161832,New
+"$642,026 - 100% fixed price guaranteed!","Lot 2206 Wyperfeld Way  (Aurora), Wollert",,3,2,1,,263m²,,https://www.realestate.com.au/property-house-vic-wollert-147157940,New
+"$642,026 - 100% fixed price guaranteed!","Lot 2206 Wyperfeld Way  (Aurora), Wollert",,3,2,1,,263m²,,https://www.realestate.com.au/property-house-vic-wollert-147157940,New
+,"16 Currawong Street, Kalkallo",,4,2,2,,,,https://www.realestate.com.au/property-house-vic-kalkallo-147143664,New
+"$638,900","Lot 654 Rakka Road at Mason Quater, Wollert",,4,2,2,,280m²,,https://www.realestate.com.au/property-house-vic-wollert-147152360,New
+"$593,301","Lot 3120 Gracemere Road, Donnybrook",,3,2,2,,320m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147150724,New
+"$648,626","Lot 1610 Perguad Road, Wollert",,3,2,2,,374m²,,https://www.realestate.com.au/property-house-vic-wollert-147097452,New
+"$644,739","Lot 61 Chamonmile Road, Kalkallo",,3,2,1,,366m²,,https://www.realestate.com.au/property-house-vic-kalkallo-147135736,New
+"$614,985","Lot 3224 Petersfield Way, Donnybrook",,3,2,2,,348m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147135824,New
+"$608,439","Lot 54 Jilcunda Street, Kalkallo",,3,2,1,,319m²,,https://www.realestate.com.au/property-house-vic-kalkallo-147135648,New
+"From $626,612 House & Land Package","Lot 21160 Rulingia Road, Donnybrook",,4,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147119996,New
+"$599,139","Lot 21207 Basalt Street, Donnybrook",,3,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147123372,New
+"From $568,612 House & Land Package","Lot 21159 Rulingia Road, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147119992,New
+$528k if eligible for FHOG - $538k,"461 Frittata Street, Donnybrook",,3,2,1,,220m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147118956,New
+"$629,900","23 Spreading Road, Mickleham",,3,2,1,Inspection tomorrow 2:15 pm,263m²,,https://www.realestate.com.au/property-house-vic-mickleham-147080448,New
+,"37 Dargile Circuit, Epping",,3,2,1,Inspection tomorrow 12:00 pm,,,https://www.realestate.com.au/property-house-vic-epping-147112576,New
+"$580,095* - FULL TURN KEY! ENQUIRE NOW!","21159 Rulingia Road, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147108712,New
+"$571,820 To $596,820","Lot 21159  Rulingia Road, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147107424,New
+"$604,345* - FULL TURN KEY! ENQUIRE NOW!","3117 Shelly Street, Donnybrook",,3,2,2,,314m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147092600,New
+"From $545,922 House & Land Package","Lot 641 Swilk Crescent, Mickleham",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-mickleham-147091904,New
+"$588,401","Lot 3216 Foreshores Drive, Donnybrook",,3,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147082688,New
+"$629,250 - LAST ONE !!","115 BRENDAN ROAD, Greenvale",,3,2,2,,259m²,,https://www.realestate.com.au/property-house-vic-greenvale-147072068,New
+"$630,000 $650,000","44 Farm Crescent, Donnybrook",,4,2,2,,267m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147069476,New
+,"6 Cilantro Street, Kalkallo",,4,2,2,,350m²,,https://www.realestate.com.au/property-house-vic-kalkallo-147070792,New
+"$593,590","Lot 1637 Finn Avenue, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147052948,New
+"$575,920 To $595,920","Lot 10807  Molesworth Crescent, Donnybrook",,3,2,1,,249m²,,https://www.realestate.com.au/property-house-vic-donnybrook-147052080,New
+"$587,100","Lot 37516 Lumin Boulevard (Cloverton), Kalkallo",,4,2,2,,360m²,,https://www.realestate.com.au/property-house-vic-kalkallo-147008064,New
+$650000-$700000,"6 croce avenue, Wollert",,4,2,2,,195.1m²,,https://www.realestate.com.au/property-house-vic-wollert-146990596,New
+"$589,070","Lot 3222 Foreshores Drive, Donnybrook",,3,2,2,,313m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146818328,New
+"$557,500","711 Swilk Crescent, Mickleham",,3,2,2,,288m²,,https://www.realestate.com.au/property-house-vic-mickleham-146803324,New
+"$522,400","Lot 21159 Rulingia Road, Donnybrook",,3,2,2,,263m²,,https://www.realestate.com.au/property-house-vic-donnybrook-146760460,New
+ESR $620000 - $680000,"Lot 40651 Samolus Avenue, Mickleham",,4,2,4,,313m²,,https://www.realestate.com.au/property-house-vic-mickleham-145991616,New
+"$580,000 -$610,000","Lot 311 Bracegirdle Drive, Mickleham",,3,2,2,,294m²,,https://www.realestate.com.au/property-house-vic-mickleham-145872004,New
+,"Address available on request, Mernda",,3,3,2,,195.1m²,,https://www.realestate.com.au/property-house-vic-mernda-136180570,New

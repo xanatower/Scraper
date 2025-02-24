@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+       
+            {
+                "name": "Python Debugger: Scraper",
+                "type": "debugpy",
+                "request": "launch",
+                //can be replaced
+                "program": "${file}",
+                "console": "integratedTerminal",
+                "env": {
+                    "PYTHONPATH": "${workspaceFolder}",
+                    "ROOTDIR": "${workspaceFolder}/"
+                },
+                "cwd": "${workspaceFolder}/${relativeFileDirname}"
+            }
+ 
+    ]
+}
