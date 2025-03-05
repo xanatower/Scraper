@@ -48,10 +48,14 @@ import random
 #         logger.debug(f"Element enabled: {elements[0].is_enabled()}")
 
 class Scraper():
-    def __init__(self, clean_df, uuid):
-        self.clean_df = clean_df
+    def __init__(self, prepped_df, uuid):
+        # filter out the 
+        self.clean_df = prepped_df[prepped_df['Status']=='To be Scraped']
         self.scraped_df = pd.DataFrame()
         self.uuid = uuid
+
+        #wait until the end to fill
+        self.scraped_df_path = None
 
     def setup_driver_with_existing_session(self):
         """Setup Chrome WebDriver using an existing Chrome session"""
@@ -78,6 +82,7 @@ class Scraper():
             element = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
             )
+            # element.send_keys(Keys.DOWN) # add down movement
             element.send_keys(Keys.RETURN)  # or Keys.ENTER - they're equivalent
         except TimeoutException:
             print(f"Element with selector {selector} not found")
@@ -199,6 +204,7 @@ class Scraper():
         
         print(f"Scraping {input_address}")
         self.fill_search_box(driver, "#propertysearch", input_address)
+        time.sleep(2)
         self.press_enter_on_element(driver, "#propertysearch")
 
         #check whether it has been filled successfully? 
@@ -211,7 +217,13 @@ class Scraper():
         final_result_dict = {'Index': input_index, 'Input Address': input_address}
 
         for name in item_to_scrape:
+
+            
             scraped_item  = self.extract_content(driver, item_to_scrape[name])
+
+            if (name == "Output Address") and (scraped_item is None):
+                print("skipping this one")
+                return
             #update the final result dict
             final_result_dict[name]= scraped_item
             print(f"The item is {name}, the value is {scraped_item}")
@@ -245,6 +257,7 @@ class Scraper():
         unsuccessful_list = []
 
         for index, address in self.clean_df['Address'].iteritems():
+            print(f"Scraping {index}/{len(self.clean_df['Address'])}")
             sleep_time = random.uniform(5, 10.4)
             try:
                 one_result_dict = self.scrape_one_address(driver, input_address=address, input_index=index)
@@ -260,7 +273,6 @@ class Scraper():
 
         # remove None from output_list and unsuccessful list
 
-        
         # Clean up output list 
         output_list = [item for item in output_list if item is not None]
 
@@ -271,24 +283,47 @@ class Scraper():
         scraped_df_path_filename = "./processed_dataset"+f"/{self.uuid}_scraped_{timestamp}.xlsx"
         self.scraped_df.to_excel(scraped_df_path_filename, index=False)
 
+        self.scraped_df_path = scraped_df_path_filename
+
         # Clean up unsuccessful list
         unsuccessful_list = [item for item in unsuccessful_list if item is not None]
         unsuccessful_df = pd.DataFrame(unsuccessful_list)
         unsuccessful_df_path_filename= "./processed_dataset"+f"/{self.uuid}_unsuccessful_{timestamp}.xlsx"
         unsuccessful_df.to_excel(unsuccessful_df_path_filename, index=False)
 
+    def check_no_property_found(self, driver, dropdown_selector="body > div:nth-child(15) > ul > li"):
+        """
+        Check if the dropdown shows "No Property Found"
 
+        Args:
+            driver: The Selenium WebDriver instance
+            dropdown_selector: The CSS selector for the dropdown results container
 
-#property-insights > div.panel > div.row > div.col-sm-6.col-sm-pull-6 > div:nth-child(1) > table > tbody > tr:nth-child(1) > td.data > span
-#free-version > div.container.property > div > div.col-sm-12.col-md-10 > section.property-summary > div > div.col-xs-12.col-sm-4.col-md-4.col-lg-4.head-value > div.price
-# item_to_scrape = {
-# "Mortgage Repayment": "#property-insights > div.panel > div.row > div.col-sm-6.col-sm-pull-6 > div:nth-child(1) > table > tbody > tr:nth-child(1) > td.data > span", 
-# "Price Bracket" : "#free-version > div.container.property > div > div.col-sm-12.col-md-10 > section.property-summary > div > div.col-xs-12.col-sm-4.col-md-4.col-lg-4.head-value > div.price",
-# "Estimated Rent":"#property-insights > div.panel > div.row > div.col-sm-6.col-sm-pull-6 > div:nth-child(1) > table > tbody > tr:nth-child(3) > td.data > div > span",
-# "Pros":"#property-insights > div.panel > div.row > div.col-sm-6.col-sm-pull-6 > div:nth-child(3) > div > ul:nth-child(3) > li",
-# "Capital Growth Score": "#ss-collapse-2 > div > div:nth-child(2) > div > div > span.property-strategy-score-value",
-# "Distance from Melbourne CBD" : "#property-insights > div:nth-child(3) > div:nth-child(8) > div > div.row > div:nth-child(1) > center > div:nth-child(1) > div > div > div > div"
-# }
+        Returns:
+            bool: True if no property was found, False if property results exist
+        """
+        try:
+            # Wait for dropdown to appear
+            dropdown = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, dropdown_selector))
+            )
+
+            print(dropdown.text)
+            
+            # Check if "No Property Found" is in the dropdown
+            if "No property found" in dropdown.text:
+                print("No property found in search results")
+                return True
+            print("No property NOT found in search results")
+            return False
+                
+        except TimeoutException:
+            print("Dropdown results never appeared")
+            return True
+        except Exception as e:
+            print(f"Unexpected error checking search results: {str(e)}")
+            return True
+
 
 item_to_scrape = {
 'Output Address' : "#paddress > span.streetAddress",
@@ -306,3 +341,23 @@ item_to_scrape = {
 "Mortgage Repayment": "#property-insights > div.panel > div.row > div.col-sm-6.col-sm-pull-6 > div:nth-child(1) > table > tbody > tr:nth-child(1) > td.data > span", 
 "Estimated Rent":"#property-insights > div.panel > div.row > div.col-sm-6.col-sm-pull-6 > div:nth-child(1) > table > tbody > tr:nth-child(3) > td.data > div > span",
 }
+
+
+
+
+# if __name__ == "__main__":
+
+#     scraper = Scraper(clean_df=pd.DataFrame(), uuid = "TEST-UUID")
+#     driver = scraper.setup_driver_with_existing_session()
+#     # scraper.scrape_one_address(driver= driver, input_index = 1, input_address="1, 2, 4/30 Pollack Street, Colac")
+
+#     #scraper.fill_search_box(driver, "#propertysearch", "1, 2, 4/30 Pollack Street, Colac")
+#     #time.sleep(3)
+#     #scraper.check_no_property_found(driver)
+#     scraper.check_search_success(driver, success_criteria_selector="#paddress > span.streetAddress")
+
+
+
+
+
+
