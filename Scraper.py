@@ -211,7 +211,8 @@ class Scraper():
         if not self.check_search_success(driver):
             return 
         # scroll_to_end(driver)
-        self.scroll_smoothly(driver)
+        scroll_pause = random.uniform(0.1, 0.6)
+        self.scroll_smoothly(driver, scroll_pause=scroll_pause)
 
         #init the final output dict
         final_result_dict = {'Index': input_index, 'Input Address': input_address}
@@ -256,7 +257,7 @@ class Scraper():
 
         unsuccessful_list = []
 
-        for index, address in self.clean_df['Address'].iteritems():
+        for index, address in self.clean_df['Address'].items():
             print(f"Scraping {index}/{len(self.clean_df['Address'])}")
             sleep_time = random.uniform(5, 10.4)
             try:
@@ -327,10 +328,11 @@ class Scraper():
 
 item_to_scrape = {
 'Output Address' : "#paddress > span.streetAddress",
-"Output Suburb" :"#paddress2 > span:nth-child(1)",
-"Output State" : "#paddress2 > span:nth-child(2)",
+#"Output Suburb" :"#paddress2 > span:nth-child(1)",
+#"Output State" : "#paddress2 > span:nth-child(2)",
 "Output Postcode" :"#paddress2 > span:nth-child(3)",
 'Estimated Price' :"#propEstimatedPrice",
+'Estimated Price Range': "#property-insights > div.panel > div.row > div.col-sm-6.col-sm-pull-6 > div:nth-child(1) > div.main-value-information > span:nth-child(6)",
 'Cash Flow Score' : "#ss-collapse-1 > div > div:nth-child(2) > div > div > span.property-strategy-score-value",
 'Capital Grow Score':"#ss-collapse-2 > div > div:nth-child(2) > div > div > span.property-strategy-score-value",
 'Lower Risk Score' : "#ss-collapse-3 > div > div:nth-child(2) > div > div > span.property-strategy-score-value",
@@ -347,14 +349,15 @@ item_to_scrape = {
 
 # if __name__ == "__main__":
 
-#     scraper = Scraper(clean_df=pd.DataFrame(), uuid = "TEST-UUID")
+#     scraper = Scraper(prepped_df=pd.DataFrame(), uuid = "TEST-UUID")
 #     driver = scraper.setup_driver_with_existing_session()
 #     # scraper.scrape_one_address(driver= driver, input_index = 1, input_address="1, 2, 4/30 Pollack Street, Colac")
 
 #     #scraper.fill_search_box(driver, "#propertysearch", "1, 2, 4/30 Pollack Street, Colac")
 #     #time.sleep(3)
 #     #scraper.check_no_property_found(driver)
-#     scraper.check_search_success(driver, success_criteria_selector="#paddress > span.streetAddress")
+#     #scraper.check_search_success(driver, success_criteria_selector="#paddress > span.streetAddress")
+#     print(scraper.scrape_one_address(driver= driver, input_index=3, input_address="52 Diplomat Crescent Cranbourne South VIC 3977"))
 
 
 

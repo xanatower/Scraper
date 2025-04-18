@@ -1,2 +1,5 @@
-pandas >= 1.4.2
+pandas >= 2.1.4
 selenium==4.27.1
+geopandas==1.0.1
+geopy==2.4.1
+shapely==2.0.7

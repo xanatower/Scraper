@@ -9,7 +9,7 @@ import uuid # add run ID
 RAW_DATASET_PATH  = "./raw_dataset"
 # RAW_DATA_SET = "gpt2.csv"
 # RAW_DATA_SET = "realestate_com_au_250117.csv"
-RAW_DATA_SET = "realestate_com_au_southeast_suburbs_250305.csv"
+RAW_DATA_SET = "realestate_com_au_northern_suburbs_250418_inspectionSAT_full.csv"
 # RAW_DATA_SET = "test2.csv"
 
 PROCESSED_DATASET_PATH  = "./processed_dataset"
@@ -32,5 +32,6 @@ scraper.scrape_dat_shit()
 analyser = Analyser(uuid = uuid_str, prepped_df_file_path=cleaner.prepped_df_path, scrapped_df_path=scraper.scraped_df_path)
 analyser.merger()
 analyser.update_status()
+analyser.run_geo_social()
 
-
+# "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\selenium\ChromeProfile"
